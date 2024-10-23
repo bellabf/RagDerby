@@ -1,0 +1,2504 @@
+
+
+
+
+The Rules of Flat Track Roller Derby | 20230101
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read about Rules and Officiating updates here.
+
+
+
+
+
+The Rules
+The Rules
+Casebook
+
+
+
+
+
+
+
+
+
+
+
+
+Rules 
+Summary
+1. Game Parameters & Safety2. Gameplay3. Scoring4. Penalties5. Officiating
+AppendicesGlossary
+Casebook
+
+
+
+Page 
+Summary
+1. Game Parameters & Safety
+1.1. Timing1.2. Teams1.3. Timeouts
+1.3.1. Team Timeouts
+1.3.2. Official Reviews
+1.3.3. Official Timeouts
+
+1.4. Game Information1.5. Winning
+1.5.1. Overtime
+
+2. Gameplay
+2.1. The Track2.2. Positions
+2.2.1. Jammers
+2.2.2. Lead Jammer
+2.2.3. Pivot Blocker
+2.2.4. Passing the Star
+2.2.5. Blockers
+
+2.3. Engagement Zone & Pack2.4. Blocks and Assists
+2.4.1. Target Zones
+2.4.2. Blocking Zones
+
+2.5. Passing3. Scoring
+3.1. Earning Points3.2. Scoring Trips3.3. Scoring Avoidance3.4. Penalized Jammers3.5. Errors in Scoring & Score Reporting4. Penalties
+4.1. Contact Penalties
+4.1.1. Impact to an Illegal Target Zone
+4.1.2. Impact with an Illegal Blocking Zone
+4.1.3. Other Illegal Contact
+4.1.4. Multiplayer Blocks
+
+4.2. Game Structure Penalties
+4.2.1. Illegal Positioning
+4.2.2. Gaining Position
+4.2.3. Interfering with the Flow of the Game
+4.2.4. Other Illegal Procedures
+
+4.3. Penalties for Unsporting Conduct (Misconduct)4.4. Enforcing Penalties
+4.4.1. Penalty Enforcement for Blockers
+4.4.2. Penalty Enforcement for Jammers
+
+4.5. Fouling Out & Expulsions5. Officiating
+5.1. Staffing
+5.1.1. Distinction
+5.1.2. Requirements
+
+5.2. Duties5.3. Communication Between Skaters & Officials5.4. Assessing Penalties
+AppendicesGlossary
+Casebook
+1. Game Parameters & Safety2. Gameplay
+2.1. The Track
+2.2. Positions
+2.2.1. Jammers
+2.2.2. Lead Jammer
+2.2.3. Pivot Blocker
+2.2.4. Passing the Star
+2.2.5. Blockers
+
+
+2.3. Engagement Zone & Pack
+2.4. Blocks and Assists
+2.5. Passing
+
+3. Scoring
+3.1. Earning Points
+3.2. Scoring Trips
+3.3. Scoring Avoidance
+3.4. Penalized Jammers
+3.5. Errors in Scoring & Score Reporting
+
+4. Penalties
+4.1. Contact Penalties
+4.1.1. Impact to an Illegal Target Zone
+4.1.2. Impact with an Illegal Blocking Zone
+4.1.3. Other Illegal Contact
+4.1.4. Multiplayer Blocks
+
+
+4.2. Game Structure Penalties
+4.2.1. Illegal Positioning
+4.2.2. Gaining Position
+4.2.3. Interfering with the Flow of the Game
+4.2.4. Other Illegal Procedures
+
+
+4.3. Penalties for Unsporting Conduct (Misconduct)
+4.4. Enforcing Penalties
+4.4.1. Penalty Enforcement for Blockers
+4.4.2. Penalty Enforcement for Jammers
+
+
+4.5. Fouling Out and Expulsions
+
+5. Officiating
+5.1. Staffing
+5.2. Duties
+5.3. Communication Between Skaters and Officials
+5.4. Assessing Penalties
+
+
+
+
+Casebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Rules of Flat Track Roller Derby¶
+
+
+Summary¶
+The game of Flat Track Roller Derby is played on a flat, oval track.
+Play is broken up into two 30-minute periods, and within those periods, into units of play called “Jams,” which last up to two minutes.
+There are 30 seconds between each Jam.
+During a Jam, each team fields up to five Skaters.
+Four of these Skaters are called “Blockers” (together, the Blockers are called the “Pack”), and one is called a “Jammer.”
+The Jammer wears a helmet cover with a star on it.
+The two Jammers start each Jam behind the Pack, and score a point for every opposing Blocker they lap, each lap.
+Because they start behind the Pack, they must get through the Pack, then all the way around the track to be eligible to score points on opposing Blockers.
+Roller derby is a full-contact sport; however, Skaters cannot use their heads, elbows, forearms, hands, knees, lower legs, or feet to make contact to opponents.
+Skaters cannot make contact to opponents’ heads, backs, knees, lower legs, or feet.
+Play that is unsafe or illegal may result in a Skater being assessed a penalty, which is served by sitting in the Penalty Box for 30 seconds of Jam time.
+The team with the most points at the end of the game wins.
+A common Jam might go like this:
+
+Blockers line up behind the Pivot Line and in front of the Jammer Line.
+Jammers line up behind the Jammer Line.
+At the Jam-Starting Whistle, the Blockers skate forward and compete for superior position.
+The Jammers skate forward and try to get through the Pack.
+Each Blocker simultaneously tries to prevent the opposing Jammer from getting past, and to help their own Jammer get through.
+One Jammer exits the Pack and is declared Lead Jammer, earning the right to end the Jam when they decide.
+This Jammer races around the track to get into scoring position.
+The same Jammer begins to work their way through the Pack for the second time, and the opposing Jammer makes their way out of the Pack for the first time.
+As the second Jammer to escape the Pack comes around into scoring position, the first Jammer calls off the Jam.
+The first Jammer has scored points (up to four), and held their opponent at zero points.
+Meanwhile, the opposing Jammer (by getting into scoring position) held the first Jammer at only those points, as they could have scored more points on subsequent passes.
+
+
+
+
+
+1. Game Parameters & Safety¶
+
+1.1. Timing¶
+A game lasts for 60 minutes of play, divided into two 30-minute periods with a halftime between them.
+Periods are broken into Jams, which are the basic unit of play for roller derby.
+A Jam can last up to two minutes.
+Jams may be called off prior to two minutes as part of gameplay, as described below.
+Each Jam starts with a single short whistle blast, and finishes at the end of a series of four short whistle blasts.
+At least 30 seconds must elapse between Jams.
+More than 30 seconds may not elapse unless a timeout is called.
+A period starts on the Jam-Starting Whistle of the first Jam for that period.
+The period clock does not stop between Jams unless a timeout is called.
+If the period clock reaches zero before the next Jam has started, the period ends at that moment; otherwise, the period ends at the conclusion of the final Jam for the period.
+If a Jam is called off due to officiating discretion (see Section 5.2) or there is an officiating error that potentially impacted the outcome (as in winner/loser) of the game, and there are less than 30 seconds remaining on the period clock at the end of the game (including when the period clock has expired), an additional Jam may be run at the discretion of the Head Referee. This additional Jam will have the same form (Overtime or not; see Section 1.5.1) as the Jam that ended and be part of the same period.
+
+
+1.2. Teams¶
+A team is comprised of Skaters, who must be uniquely identified by a roster number.
+Each team must have a jersey of the same base color, such that uniform colors of the two teams playing are of high contrast.
+Roster numbers must be clearly displayed on a Skater’s back and upper arm areas.
+Each team must have helmet covers to clearly indicate who their Jammer and Pivot are.
+The Jammer and Pivot helmet covers for the two teams must be easy to differentiate.
+Skaters must wear quad-style roller skates and protective gear during play.
+Inline skates are not permitted.
+Protective gear may not be removed during play.
+Protective gear may not impair or interfere with the safety or play of other Skaters, support staff, or Officials.
+Skaters who are injured during play may return to play as long as they are no longer apparently injured or bleeding.
+A Skater whose injury alters the flow of the game (examples include a Jam being called off, a period clock stoppage, or a substitute being seated in the Penalty Box) may not participate during the following three Jams (extending into the following period if necessary).
+A Skater whose injury alters the flow of the game more than once in a period may not participate as a Skater for the rest of that period.
+The Head Referee may also declare that a team has forfeited the game if that team has five or fewer Skaters eligible to participate, or refuses to field Skaters on the track to continue play.
+
+
+1.3. Timeouts¶
+Teams and Officials may stop the period clock by calling a timeout.
+Timeouts may only be called between Jams, though Officials may end a Jam in order to call an Official Timeout.
+The beginning of a timeout is marked by four short whistle blasts, and the end of a timeout is marked by a long rolling whistle, after which the next Jam begins as soon as possible if there is time remaining on the period clock.
+At most, 30 seconds may pass before the next Jam begins.
+The period clock starts again at the Jam-Starting Whistle.
+There are three types of timeouts.
+
+1.3.1. Team Timeouts¶
+Each team has three timeouts that they can take during the game.
+Team Timeouts may be requested only by the team’s Captain or Designated Alternate.
+Penalized Captains or Designated Alternates cannot request a Team Timeout.
+Team Timeouts last for 60 seconds.
+
+
+1.3.2. Official Reviews¶
+Each team begins the period with one Official Review which they may use during that period.
+An Official Review is a formal request made by a team’s Captain or Designated Alternate for Officials to review a specific officiating decision.
+The only officiating decisions that can be the subject of an Official Review are those made during the prior Jam, or during the lineup time preceding the prior Jam.
+The Head Referee investigates the review with other Officials, and uses the information gathered to render a decision on the item under review, as well as related decisions.
+The Head Referee then announces their findings and any changes that result from the review to both teams’ representatives.
+This decision is final and not reviewable.
+If the Head Referee determines that an officiating error was made in relation to the situation under review, the team will retain the privilege to call an additional review later in the same period.
+The review can be retained in this manner only once per period.
+A team may also elect to use their Official Review as a Team Timeout.
+In this case, the review will not be retained.
+Penalized Captains or Designated Alternates cannot request an Official Review.
+Official Reviews (whether unused or retained) are not carried forward to the subsequent period.
+
+
+1.3.3. Official Timeouts¶
+Officials may take a timeout in order to ensure that the game is running smoothly and correctly.
+If the prior Jam ended with less than 30 seconds on the period clock, the fact that the Officials called a timeout will not necessarily result in another Jam occurring in the same manner that a Team Timeout or Official Review would.
+Instead, the Officials must determine whether or not there is reason to hold another Jam for that period.
+If the Officials determine that there is no reason to hold another Jam, both teams must be given a chance to call a Team Timeout or Official Review (if they have any remaining).
+If they decline, the period will end.
+
+
+
+1.4. Game Information¶
+Critical game information must be displayed in a manner that is highly visible to Teams, Officials, and spectators.
+This displayed critical game information is considered official, and must include, at a minimum:
+
+The period clock
+The Jam clock
+The Official Score
+
+Errors in timing or score should be updated as quickly as possible.
+If an error persists for an extended period of time, it should be corrected only if the correction itself would have minimal impact on the game.
+
+
+1.5. Winning¶
+The team with the most points at the end of the game wins.
+
+1.5.1. Overtime¶
+If the game ends with the score tied, the second period will be extended by at least one additional Jam.
+This Overtime Jam is like any other Jam, with two exceptions:
+
+No Lead Jammer is declared
+Both Jammers begin scoring on their first trip through the Pack (each Jammer is in position to lap the opposing Blockers on their first earned pass of those Blockers)
+
+More Jams will be added in this manner until a Jam ends with the score no longer tied.
+
+
+
+
+2. Gameplay¶
+
+2.1. The Track¶
+The track must conform to the standardized dimensions of the WFTDA Track Specifications.
+The track must be flat, clean, and suitable for roller skating.
+The track must be marked by a boundary that stands in high contrast to the floor.
+The boundary counts as part of the track (the boundary is “in bounds”) and may not vary in width around the track.
+The track boundary, the Pivot Line, and the Jammer Line may be of any pattern or color so long as they clearly mark the edge of the track.
+Near the track, an area must be marked out for each team (the Team Bench Area) and for the Penalty Box.
+The boundary in these cases must also be high contrast and counts as part of the relevant area.
+For example, the boundary for the Penalty Box counts as part of the Penalty Box.
+Only Skaters who are actively serving a penalty may enter the Penalty Box Area.
+
+
+Fig. 2.1 The Track (Track Layout and Design © 2002 Electra Blu/Amy Sherman, Texas Rollergirls, used here with permission)¶
+
+
+
+2.2. Positions¶
+For each Jam, a team must field one Jammer, and at most four Blockers.
+One of these Blockers may be designated as the Pivot Blocker.
+Any Skaters who are not completely on the track at the Jam-Starting Whistle may not participate in the Jam, and thus do not count toward these limits.
+Skaters serving penalties (in, or on their way to, the Penalty Box) are counted toward these limits.
+Teams must field at least one Blocker who is not serving a penalty.
+Skaters may not change positions during a Jam, except in the case of a Star Pass (see below).
+When a Jam begins, the Jammers must be touching on or behind the Jammer Line.
+All Blockers must be behind the Pivot Line, ahead of the Jammer Line, and all Non-Pivot Blockers must not be touching the Pivot Line.
+If either Pivot is positioned touching the Pivot Line at the Jam’s start, all Non-Pivot Blockers must be behind that Pivot’s hips.
+Any Skaters who are completely on the track, but partially illegally positioned (for example, a Jammer who is touching past the Jammer Line) are required to yield their position to all other Skaters in the immediate vicinity.
+Any Skaters who are wholly illegally positioned are immediately penalized.
+Blockers who are required to yield are not considered for Pack definition until they have done so. Jammers who are required to yield cannot earn passes until they have done so.
+
+2.2.1. Jammers¶
+The Jammer is denoted as the Skater in visible possession of the Jammer helmet cover (a.k.a. the Star) at the beginning of the Jam.
+If a Skater is serving a penalty as their team’s Jammer, no teammate may begin the Jam in possession of the Star or behind the Jammer Line.
+If there is neither a Skater serving a penalty as the Jammer nor a Skater with a visible Star, then the team has failed to field a Jammer for the upcoming Jam and will be penalized accordingly.
+Unless they are serving a penalty, the Jammer must start the Jam on or behind the Jammer Line.
+Jammers may be stopped or coasting, but may not be actively gaining speed in the counterclockwise direction at the Jam-Starting Whistle.
+The Star may only be carried by the Jammer wearing it on their helmet, or by that team’s Jammer or Pivot holding it in their grasp.
+Other Skaters may not control the Star, and the Jammer and Pivot may not hide the Star (examples include putting it in a pocket or hiding it in a uniform).
+The Jammer is the only Skater who can score points for their team (see Section 3).
+Jammers may also legally exit and remain outside of the Engagement Zone.
+
+
+2.2.2. Lead Jammer¶
+The Lead Jammer is the first Jammer who establishes superior position to the foremost in-play Blocker, having already earned a pass on all Blockers excluding those ahead of the Engagement Zone (see Section 2.5).
+When one Jammer is determined to be the Lead Jammer, this is indicated by two short whistle blasts.
+A Jammer becomes ineligible to earn Lead during a Jam if they commit a penalty during that Jam, exit the front of the Engagement Zone without having earned Lead on their initial trip, remove their helmet cover, or have their helmet cover removed by a teammate.
+If both Jammers qualify for Lead at the same moment (for example, the foremost Blocker goes out of play), the foremost Jammer at that moment will be declared Lead.
+Only Skaters who begin the Jam as Jammers may become Lead (so a Pivot who receives the Star cannot become Lead).
+The Lead Jammer will lose their Lead Jammer status if they commit a penalty, intentionally remove the Star once it is on, or have the Star intentionally removed from their head by a teammate.
+The Lead Jammer is the only Skater who may call off a Jam before the full two minutes elapse.
+The Lead Jammer calls off the Jam by repeatedly placing their hands on their hips.
+
+
+2.2.3. Pivot Blocker¶
+The Pivot is a Blocker, and is denoted as the Skater in possession of the Pivot helmet cover (a.k.a. the Stripe) at the Jam-Starting Whistle.
+The Pivot wearing the Stripe with the stripe showing has several additional abilities that other Blockers do not.
+
+The Pivot may become their team’s Jammer (see Section 2.2.4).
+The Pivot may control the Star (pick it up, move it, etc.) even if they are not the Jammer; for example, to recover it and return it to the Jammer.
+The Pivot may begin a Jam while touching the Pivot Line.
+
+When not wearing the Stripe with the stripe showing, the Pivot cannot utilize these additional abilities.
+
+
+2.2.4. Passing the Star¶
+A team’s Jammer may transfer their position to their team’s Pivot by successfully completing a legal Star Pass.
+A legal Star Pass requires the Jammer to hand the Star to their team’s Pivot while both Skaters are upright, in bounds, and in play; and while neither Skater is en route to, or in queue for, the Penalty Box.
+Upon releasing the Star into the Pivot’s grasp, the position of Jammer is transferred to the Pivot.
+The new Jammer takes over for the previous Jammer in terms of points scored, trips through the Pack, and Skaters passed.
+The previous Jammer becomes a Non-Pivot Blocker.
+If the Star is passed illegally, both Skaters retain their existing positions.
+This includes:
+
+Releasing the Star into the grasp of a Skater other than their Pivot
+Releasing the Star into the Pivot’s grasp while either of the two Skaters is down, out of bounds, out of play, or en route to the Penalty Box
+Releasing the Star into the Pivot’s grasp while the Pivot is in queue for the Penalty Box (even if the Pivot is not yet en route)
+Releasing the Star into the grasp of a Pivot who is not wearing the Stripe
+
+If the Pivot comes into control of the Star through an unsuccessful Star Pass or any other means (for example, by picking up a Star that has fallen to the floor), they will be warned that they are not the Jammer.
+Accordingly, the Pivot may not put the Star on their own helmet, but they may hold the Star in their hand, drop it, or return it to the Jammer.
+Only the Jammer or Pivot may recover or control the Star.
+The initiator of an illegal Star Pass (or Star recovery) that impacts the game should be penalized.
+
+
+2.2.5. Blockers¶
+All other Skaters are considered Blockers.
+Non-Pivot Blockers may not wear helmet covers or have any markings on their helmets that could be confused for the Stripe or the Star.
+
+
+
+2.3. Engagement Zone & Pack¶
+The Pack is the largest group of in bounds and upright Blockers in proximity and containing members from both teams.
+If no single group of Blockers meets this definition, there is no Pack, even if there are multiple groups of the same size.
+Proximity is defined as not more than 10 ft (3.05m), as measured from the hips, in front of or behind the nearest Pack Skater.
+When a Skater is penalized, they are considered to no longer be on the track for the purposes of Pack definition and relative position determinations.
+It is the responsibility of all Blockers to maintain a Pack, and intentionally destroying the Pack is illegal.
+When the Pack is moving counterclockwise, stopped, or has no established speed, clockwise skating which destroys the Pack is illegal.
+All Blockers from both teams must act to reform a Pack.
+For Skaters in the rear group, this includes stepping or skating in the counterclockwise direction.
+For Skaters in the front group, this includes coasting, braking, or coming to a complete stop.
+If an immediate action is not sufficient to reform the Pack, additional effort is required.
+If a Blocker is in the rear group, they must accelerate (until sprinting) toward the front group until a Pack is reformed (coasting, stepping slowly, or stepping in an only somewhat-counterclockwise direction are insufficient), but they may slow in order to avoid unsafe contact when the Pack reformation is imminent.
+If a Blocker is in the front group, they must actively brake until they come to a complete stop (coasting is insufficient), but they are not required to skate clockwise.
+Blocks on or by Blockers which have impact while there is no Pack should be immediately penalized.
+The Engagement Zone is the area in which it is legal for Blockers to engage or be engaged.
+The Engagement Zone extends forward and backward 20 ft (6.10m) from the foremost and rearmost Pack Skaters, respectively.
+Any Blocker outside of the Engagement Zone is out of play and cannot engage or be engaged.
+Blockers who are outside of the Engagement Zone will be warned, and will be penalized if they do not immediately attempt to return to the Engagement Zone.
+Blockers ahead of the Engagement Zone are only compelled to skate clockwise to return to the Engagement Zone if the Pack is stopped or moving clockwise.
+Skaters who are illegally blocked while out of play may legally counter-block, but may not initiate new blocks or continue blocking beyond what is necessary for safety.
+Skaters who are blocked while completely out of bounds may actively absorb the block, but may not continue counter-blocking beyond that, and may not initiate a new block.
+Distances for determining the Pack and the Engagement Zone are measured as the shortest distance, parallel to the inside track boundary, between Skaters’ hips.
+
+
+2.4. Blocks and Assists¶
+“Blocking” refers to any physical contact made to an opponent, and to any movement or placement of one’s body to impede said opponent’s speed or movement, during a Jam, whether or not contact is made.
+Counter-blocking is any movement towards an oncoming block by the receiving Skater designed to counteract an opponent’s block.
+Counter-blocking is blocking.
+Actions that meet the above description are considered blocking, even if accidental.
+Contact made to teammates is not considered blocking even if it is a disadvantage to the initiator or teammate.
+All contact between opponents has an initiator, though it is possible for two or more Skaters to mutually initiate blocks against one another.
+Skaters may not block or assist while out of bounds, out of play, down, stopped, or moving clockwise.
+Skaters also may not initiate a block on an opponent who is down, out of play, or fully out of bounds.
+Skaters may, however, initiate a block (or assist) on someone who is straddling, stopped, or moving in any direction (even clockwise).
+Skaters may not assist a teammate who is out of play or fully out of bounds; however, they may assist a downed teammate to return them to an upright position.
+
+2.4.1. Target Zones¶
+It is only legal to initiate a block to an opponent’s chest, front and sides of the torso, arms, hands, hips, and the front and sides of the legs above mid-thigh.
+
+
+Fig. 2.2 Legal Target Zones¶
+
+
+
+2.4.2. Blocking Zones¶
+It is only legal to initiate a block using one’s torso, arms above the elbow, and legs above mid-thigh.
+
+
+Fig. 2.3 Legal Blocking Zones¶
+
+
+
+
+2.5. Passing¶
+Skaters gain superior position on other Skaters by passing them in the counterclockwise direction.
+Passing another Skater refers to moving such that one Skater’s center of mass (as demarcated by their hips) moves from behind another Skater’s center of mass to ahead of it.
+Jammers only “earn” a pass if the pass occurs while the Jammer is wearing the Star on their helmet with the stars showing.
+All earned passes count as passes.
+Passes are only “earned” if:
+
+The Jammer is upright and in-bounds during the pass, or
+Another Skater skates behind the in-bounds Jammer, giving up their position
+
+As soon as a Jammer earns a pass on an opposing Blocker, they also earn a pass on any opponents who are “not on the track”–meaning that they are not part of active gameplay for some reason–and who cease to be part of active gameplay prior to the completion of the Jammer’s scoring trip.
+This includes a Skater who:
+
+Is sent to or serving time in the Penalty Box
+Leaves the track due to injury
+Leaves the track temporarily to fix equipment or skates
+Was not part of the Jam in the first place (because their team did not field the maximum number of Skaters)
+Returns to active gameplay behind the Jammer
+
+A Skater who passes someone while airborne is considered to be “in bounds” if they are in bounds when they leave the floor and the first contact they make upon landing is in bounds.
+A Skater who passes someone while airborne is considered to be “upright” if the Skater is upright when they leave the floor, and if the first contact they make upon landing is with their skate to the track.
+
+
+
+3. Scoring¶
+
+3.1. Earning Points¶
+Jammers score one point every time they lap an opposing Blocker.
+A Jammer laps a Blocker if they pass that opponent twice in a row (without that opponent having passed that Jammer), but score a point only if the lapping pass is earned (see Section 2.5).
+If an opponent is lapped but a point is not scored (because the lapping pass was not earned), the Jammer may yield position to that opponent and re-pass them, earning a pass, to score on that opponent.
+Only Blockers can be scored upon. All Blockers are considered to be on the same trip, including former Jammers who have passed the Star.
+
+
+3.2. Scoring Trips¶
+Points are grouped by trips through the Pack.
+One trip through the Pack ends, and the next begins, when the Jammer exits the front of the Engagement Zone  (or, if no Pack can be defined, when the Jammer is more than 20 ft ahead of the foremost in-bounds member of the previous Pack).
+Upon completion of a trip through the Pack, the Jammer’s score for that trip can no longer be altered by dropping back to re-pass any opponents the Jammer did not score upon on that trip.
+If a Jammer enters the Engagement Zone from the front, they return to their previous trip until they exit the Engagement Zone from the front again.
+A Jammer cannot, however, fall behind by more than one trip.
+Whenever a Jammer exits the Engagement Zone from the front, they return to their latest trip.
+If a Jammer falls behind their initial trip through the Pack, passes on Blockers do not count toward scoring or lapping until they return to their initial trip through the Pack.
+When a Jam ends, whatever trip the Jammers are on is considered to have been “completed” by the Jam ending.
+
+
+3.3. Scoring Avoidance¶
+Opponents can only avoid being scored upon by remaining ahead of the Jammer, or by ensuring that when they are passed, the pass is not earned.
+If a Jammer completes a trip through the Pack without the opportunity to earn a pass on an opponent, the Jammer is said to have earned a pass on that opponent.
+This includes but is not limited to:
+
+Opponents who are ahead of the Engagement Zone when the Jammer completes their trip through the Pack by exiting the front of the Engagement Zone
+Opponents who are ahead of the Engagement Zone at the end of the Jam when the Jammer is on a scoring trip and ahead of the rearmost Pack Blocker
+Any Not-On-the-Track Point (see Section 2.5) that the Jammer cannot earn because they complete their trip through the Pack without the opportunity to earn a pass on any opposing Blocker (which would earn them a pass on the off-the-track opponents)
+Opponents who are out of play behind the Pack, if a Jammer reenters the track from the Penalty Box in front of that Blocker
+
+If a Jammer renders themself unable to score points–for example, by committing a penalty or by removing the Star–any not-on-the-track points they would have earned while unable to score are earned once they become able to score again.
+If an opponent’s action renders the Jammer unable to score–for example, a Jammer who is blocked out of bounds–the Jammer continues to score Not-On-the-Track points as usual.
+
+
+3.4. Penalized Jammers¶
+When a Jammer is penalized, they are considered to no longer be on the track (even if they are physically still on the track).
+Accordingly, a penalized Jammer cannot earn passes on any further opponents until that Jammer completes their penalty.
+Upon release from the Penalty Box, a Jammer returns to the same trip through the Pack, having scored on (and/or being in position to score on) the same Blockers.
+
+
+3.5. Errors in Scoring & Score Reporting¶
+The Official Score is that which is reported and visible to teams, Officials, and spectators.
+If a point is awarded (or denied) in error, or if a Jammer Referee has reported a score incorrectly, the score may be corrected no later than the end of the Jam after the one in which the error occurred.
+If there are fewer than 2 minutes in the game remaining on the period clock, score corrections must be made before the start (rather than the end) of the Jam after which the error occurred.
+However, points awarded (or denied) correctly, given the information available at the time, may not be taken away (or awarded) later.
+For example, a Jammer who exits the Engagement Zone and is awarded four points has earned those points, even if upon review they were found to have committed a penalty two trips prior (and thus would not have been able to earn those points).
+See Points Awarded in Error and Points Denied in Error
+
+
+
+4. Penalties¶
+When a Skater commits a rule infraction or a foul, a penalty may be assessed as a punishment, handicap, or loss of advantage.
+Penalties are applied to both a Skater and the position that Skater is currently playing.
+Officials signal and enforce penalties and warnings as they occur during a game.
+Penalties should not be assessed for actions that have little to no impact on the game or the Skaters.
+The following types of penalties are addressed in detail in the sections listed below and in the Rules of Flat Track Roller Derby Casebook.
+These sections hold specific examples that are to be followed explicitly.
+Illegal actions that do not fall cleanly into one of the categories below should be penalized using these descriptions and examples as guidelines.
+If one Skater’s illegal action causes an opponent to unavoidably commit another illegal action, the opponent will not receive a penalty for the unavoidable illegal action.
+The initial Skater should be penalized if the initial illegal action has sufficient impact on the game.
+
+4.1. Contact Penalties¶
+Gaining position on an opponent, or causing an opponent to lose position to another teammate, due to illegal contact is always considered to have sufficient impact on the game.
+Star Passes can only be blocked by legal means. Skaters who prevent a Star Pass using illegal contact should be penalized.
+
+4.1.1. Impact to an Illegal Target Zone¶
+Making contact to an Illegal Target Zone should be penalized based on the impact it has on the target (see Section 2.4.1).
+Illegal Target Zones include:
+
+Back of the body, including the back of the buttocks and the back of the thighs
+Head, down to the collarbone
+Below mid-thigh
+
+For safety reasons, avoidable forceful contact to the back, or any forceful contact to the head or neck should be penalized regardless of impact.
+A Skater suddenly presenting an Illegal Target Zone to an opponent, giving that opponent no reasonable opportunity to avoid illegal contact, is considered to be initiating with that target zone.
+
+
+Fig. 4.1 Legal Target Zones¶
+
+
+
+4.1.2. Impact with an Illegal Blocking Zone¶
+Making contact with an Illegal Blocking Zone should be penalized based on the impact it has on the target (see Section 2.4.2).
+Using an Illegal Blocking Zone also has sufficient impact to warrant a penalty if:
+
+The contact puts an opponent significantly off balance;
+The contact significantly alters an opponent’s trajectory or speed (for example, significantly holding them back);
+The contact with an opponent allows the Skater to maintain an in-bounds position (that otherwise would not have been maintained); or
+The contact with an opponent allows the Skater to maintain an upright position (that otherwise would not have been maintained).
+
+Illegal Blocking Zones include:
+
+Head, down to the collarbone
+Forearm, from the point of the elbow to the fingertips
+Legs, from below mid-thigh to the wheels of the skate
+
+For safety reasons, any forceful contact initiated with the head or neck, intentional use of the head or neck to positionally block, or intentional and forceful jabbing with elbows or strikes with knees should be penalized regardless of impact.
+Forearms are considered a Legal Blocking Zone when they are held close against the initiator’s torso.
+
+
+Fig. 4.2 Legal Blocking Zones¶
+
+
+
+4.1.3. Other Illegal Contact¶
+Initiating a block is legal when a Skater is moving counterclockwise, in play, upright, and in bounds during a Jam using Legal Contact Zones.
+Other contact may be dangerous because it is unexpected.
+Accordingly, Skaters cannot initiate a block while down, out of bounds, out of play, airborne, stopped, or skating clockwise.
+Skaters also cannot initiate a block on opponents who are down, fully out of bounds, or out of play.
+Skaters may initiate a block on an opponent who is straddling the track boundary, stopped, or skating clockwise.
+Initiation of assists should be held to the same metrics as that of blocking, with the exception of assisting a downed teammate to return to an upright position.
+
+
+4.1.4. Multiplayer Blocks¶
+Skaters may not form a wall by linking with or grasping a teammate, or otherwise forming an impenetrable connection.
+This action warrants a penalty if an opponent attempts to get between them and fails to do so due to the illegal formation.
+
+
+
+4.2. Game Structure Penalties¶
+When the basic rules of the game are violated in a manner that would give a team an advantage, the individual or team who violates the rule should be penalized.
+A team gains advantage if an illegal act results in:
+
+An opponent becoming (or remaining) unable to block
+A gain of position or a teammate’s gain of position
+The game flow being altered
+
+
+4.2.1. Illegal Positioning¶
+Since all Blockers are unable to block when a Pack cannot be defined, if a Skater’s illegal action destroys the Pack, or if a Skater’s actions prevent or delay the reformation of a Pack, that Skater should be penalized.
+It is illegal to adopt or maintain a position in which one cannot be blocked.
+Skaters may not intentionally leave the track, nor may Blockers intentionally leave the Engagement Zone.
+While there are many legal actions that would cause a Skater to be put into an illegal position (for example, out of bounds or out of play), intentionally adopting such a position should be penalized.
+It is legal for Jammers and Pivots to leave the track to retrieve an out-of-bounds helmet cover. A Skater who is illegally positioned must immediately act to regain a legal position.
+If a Skater has reason to believe that they are legally positioned (even though they are not), or has reason to believe that they cannot legally return to a legal position, they must be warned before being assessed a penalty for failing to return to a legal position.
+If a Skater is not legally positioned at the start of a Jam, the Skater should immediately yield position to everybody in the vicinity.
+Failing to do so after a warning is considered to be intentionally maintaining an illegal position and should be penalized accordingly.
+
+
+4.2.2. Gaining Position¶
+It is illegal for a Skater to use the out-of-bounds area to gain position on someone who is upright and in bounds.
+This action is referred to as “cutting the track.”
+Skaters who are out of bounds must return in bounds behind any upright and in-bounds Skater who they were behind when they left the track.
+The position of downed Skaters is not assessed until they are upright.
+If there is a Pack, Skaters who are out of bounds may return in bounds in front of any out-of-play Skaters.
+If there is no Pack, Skaters who are out of bounds may return in bounds in front of any Skaters more than 20 ft (6.10 m) from the last defined Pack.
+Skaters who intentionally, but legally, leave the track (examples include to report to the Penalty Box or to fix equipment) must return to the track behind all in-play Blockers.
+If there is no Pack, they must return to the track behind all Blockers within 20 ft (6.10 m) of the last defined Pack.
+Skaters returning to the track from the Penalty Box must do so without illegally gaining position.
+If a Skater is put out of bounds due to an opponent’s block, the Skater must return in bounds behind that opponent, even if the Skater was in front of the opponent before being blocked.
+That opponent gives up this advantage if they go down, out of bounds, or out of play (or more than 20 ft [6.10 m] from the last defined Pack if there is no Pack) prior to the Skater reentering the track.
+Skaters other than the initiator of the block are able to reestablish their superior position if they are upright, in bounds, and in play before the Skater returns to the track.
+Skaters who illegally reenter the track may immediately cede by returning fully out of bounds.
+Cutting one single teammate does not have enough impact to warrant a penalty.
+
+
+4.2.3. Interfering with the Flow of the Game¶
+All efforts should be made by teams and Officials to ensure that the period clock runs according to the rules of the game, and that Jams start and end as specified in the rules.
+Any inappropriate action that interferes with the game—including causing the period clock to stop, preventing a Jam from starting, or ending a Jam prematurely—should be penalized.
+Examples of inappropriate actions include, but are not limited to:
+
+Skaters queued for the Penalty Box not on the track at the Jam start
+No Blockers from one team on the track at the Jam start
+All Blockers from one team entirely out of position at the Jam start
+Either team not fielding a Jammer for the Jam
+A team fielding too many Skaters during a Jam which results in an advantage that cannot be removed by the removal of the extra Skater(s)
+A team successfully requesting a Team Timeout when they have none remaining
+A team member who is neither the Captain nor the Designated Alternate successfully requesting a Team Timeout or Official Review
+
+Officials and Skaters should work together to ensure that the game flows according to the rules.
+
+
+4.2.4. Other Illegal Procedures¶
+Skaters who violate the rules of the game should be penalized if the violation has a significant impact on the game. Examples of this are listed in the Rules of Flat Track Roller Derby Casebook; however, Skaters and Officials should work to ensure that the rules are followed as swiftly as possible, and to rectify any illegal or potentially illegal play before it has sufficient impact on the game to warrant penalization.  Nevertheless, if a technical violation by one team results in an advantage, this should be penalized.
+
+
+
+4.3. Penalties for Unsporting Conduct (Misconduct)¶
+All participants in a game of roller derby must be respectful of one another.
+This includes but is not limited to Skaters, Team Staff, Officials, mascots, event staff, and spectators.
+When Skaters or Team Staff behave in an unsporting manner, their misconduct should be penalized accordingly.
+Misconduct can take many forms and does not have to be intentional to be considered unsporting. Examples include, but are not limited to:
+
+Deceiving or ignoring Officials
+Engaging in dangerous and illegal actions that pose a substantial hazard to oneself or another
+Disrespectful contact to an Official or forceful contact which is negligent or avoidable
+Being abusive toward another person
+Failure to abide by Governing Body policies during the game pertaining to Skaters, Team Staff, and the immediate play area
+
+Actions which seriously undermine the legitimacy of the sport or display a lack of respect for the sport,
+its execution, and those who contribute to it may also be penalized.
+
+
+4.4. Enforcing Penalties¶
+Upon completion of the correct verbal cue and hand signal from an Official, the penalized Skater must immediately leave the track.
+Upon sitting in any seat in the Penalty Box, the Skater’s penalty time begins.
+Skaters serve 30 seconds of Jam time for each penalty assessed to them.
+The final 10 seconds of their penalty time must be served while standing.
+
+If a Skater stands early, their time stops until they are seated again.
+If a Skater does not stand in a manner that makes it clear to Officials, Skaters, and spectators that they are serving their final 10 seconds, their timing stops until they stand.
+
+If a Skater sits in the Penalty Box between Jams, their time does not start until the beginning of the following Jam.
+If a Skater is assessed a penalty but unable to serve it—for example, due to an injury or an equipment malfunction—a substitute may serve in their place once the Jam ends.
+In this case, the Skater who was unable to serve their own penalty may not skate for the following three Jams.
+Skaters may remove their mouthguard, but no other protective gear, while seated in the Penalty Box.
+Skaters must replace their mouthguard prior to leaving the Penalty Box.
+Nobody may enter the Penalty Box except for Officials, and Skaters who are serving penalties.
+
+4.4.1. Penalty Enforcement for Blockers¶
+No more than two Blockers for the same team may sit in the Penalty Box at the same time.
+If a third Blocker reports to the Penalty Box while two Blockers for their team are seated, the third Blocker will be placed in queue and instructed to return to play.
+If a Blocker is standing in the Penalty Box, another Blocker may sit in the open seat.
+A Blocker in queue may return to the Penalty Box when there is space in the Penalty Box, unless doing so would destroy the Pack.
+A Blocker must immediately return if instructed to do so by an Official.
+Once a Blocker in queue returns to the track, they should be treated like any other unpenalized Blocker.
+
+
+4.4.2. Penalty Enforcement for Jammers¶
+A Jammer may have their penalty time shortened if the other Jammer also receives a penalty.
+In this case, the two Jammers serve as little time as possible so long as:
+
+The two Jammers serve an equivalent amount of penalty time, per penalty
+Whenever possible given point 1, there is at least one Jammer who is not serving a penalty
+
+Jammers who are to be released due to the other Jammer sitting should be released immediately once the other Jammer sits.
+If one Jammer sits between Jams, the other Jammer should be released at the start of the next Jam.
+If both Jammers sit simultaneously, they will both be released immediately.
+If both Jammers sit between Jams, they should be released at the start of the next Jam.
+If a Jammer is sent to the Box when there is no opposing Jammer (for example, because the opposing Jammer has an equipment malfunction), the Jam will end once the Jammer is seated.
+This ensures that there is one Jammer who is not serving a penalty.
+
+
+
+4.5. Fouling Out & Expulsions¶
+When seven penalties are recorded for a Skater, that Skater fouls out of the game.
+This includes penalties assessed to a Skater on behalf of someone else (examples include penalties assessed to a Captain or a Blocker on behalf of their team).
+Expulsions are a way to penalize a Skater or Team Staff who has committed an act that is sufficiently dangerous or unsporting as to remove the individual from the game for that action alone.
+Negligent, intentional, or reckless actions should be considered for expulsion independently of their impact.
+A substitute must serve the penalty for an expelled Skater.
+If a Non-Skater is expelled, the team’s Captain will serve the penalty when possible (as a Blocker), but no penalty will be recorded for the Captain.
+In the event that a Skater is to be removed from play (either due to fouling out or expulsion), that Skater’s penalty time should begin as soon as possible.
+Timing for a fouled-out Skater begins when either the Skater (or an appropriate substitute between Jams) is seated in the Penalty Box, or after the foul out is confirmed between Officials during the Jam.
+If a Skater is removed from the game mid-Jam, their penalty will be timed as if a Skater were seated even though there is no Skater formally in the Box.
+If the Jam ends before the time is complete, the Skater’s team must be given the opportunity to substitute a different Skater to serve the remainder of the penalty in the same position as the removed Skater.
+Substitutions may not occur during the Jam in which the Skater is removed.
+The Head Referee is the only Official with the authority to expel a Skater, manager, coach, or similar Team Staff.
+Other Officials may recommend expulsions to the Head Referee.
+
+
+
+5. Officiating¶
+
+5.1. Staffing¶
+Each game must staff enough on-skates Officials (Referees) to effectively track the following information in real time:
+
+The location of the Pack and Engagement Zone
+Which Blockers are out of play
+Who the Jammers are
+Which Jammer (if any) is Lead Jammer
+How many points each Jammer has scored
+
+One Referee is designated the Head Referee.
+
+5.1.1. Distinction¶
+Referees are responsible for assessing and enforcing penalties, must be on skates, and must be uniformed in a manner that clearly identifies them as Referees.
+Referees must be distinguishable from each other; for example, by displaying a name or number on their uniform.
+
+
+5.1.2. Requirements¶
+Each game must also staff enough Officials to effectively track the state of the game such that the rules can be enforced in real time.
+The number and position of Officials may vary based on available technology and the limitations of the venue, but the following information must be available upon request:
+
+The Official Score
+The Official Jam Time
+The Official Period Time
+Which Skaters have been assessed how many penalties, and which have been served
+Which Skaters are not allowed to skate (for example, due to expulsion, fouling out, or having a Jam called for their injury)
+How long a given Skater has been seated for each penalty
+
+Individual Officials may be assigned to multiple tasks so long as this does not threaten the accuracy of the above information.
+
+
+
+5.2. Duties¶
+All Officials are responsible for keeping the game running safely and smoothly by ensuring that the rules of the game are followed.
+This includes but is not limited to:
+
+Ensuring that each team has an acceptable number of Skaters on the track
+Ensuring that each team has an acceptable number of Skaters in certain positions on the track
+Ensuring that the game is played legally
+Timing Jams, periods, penalties, and the time between Jams (including timeouts and reviews)
+Signaling the starts and ends of Jams
+Signaling who is the Lead Jammer
+Signaling how many points each Jammer earns on each trip through the Pack
+Informing Skaters and Team Staff of the state of the game when asked (to the best of their ability given the constraints of their responsibilities)
+Calling Official Timeouts when additional time is needed; this may include a need to ensure that:
+
+Game information has been correctly recorded
+Gameplay is safe
+Injured Skaters have been taken care of
+The teams are informed regarding anything out of order
+
+
+
+Officials may call off Jams at their discretion.
+Reasons may include but are not limited to injury, technical difficulty, interference in a Jam by spectators or other Skaters, unsafe play, or illegal play that cannot be rectified via penalty assessment.
+
+
+5.3. Communication Between Skaters & Officials¶
+All communication between Skaters, Team Staff, and Officials must be respectful.
+Officials should provide any information necessary for a Skater to know whether they are in play, including the location of the Pack. Skaters who reasonably believe that they are in play should not be penalized for technical infractions that pertain to being out of play, unless such a warning has been given (examples include failure to return to play, to reform a Pack, or to yield after committing a false start).
+If an Official provides erroneous information to a Skater, the Skater will not be penalized for actions taken based on that information.
+For example, if a Penalty Box Official releases a Skater early, the Skater will not be penalized for leaving once released.
+Likewise, if a Jammer calls off a Jam while their Jammer Referee is indicating that they are the Lead Jammer, said Jammer will not be penalized for calling off the Jam illegally, even if they are not in fact Lead.
+An absence of information provided (for example, an Official not providing a warning) is not considered erroneous.
+The Head Referee may, at their discretion, limit the extent to which Skaters may communicate with Officials.
+
+
+5.4. Assessing Penalties¶
+All Referees may assess penalties to Skaters for illegal actions that have impact on the game.
+Non-Skating Officials may assess penalties that are relevant to their position in the game, unless prohibited from doing so by the Head Referee.
+Officials will use their judgment under the guidelines set forth in the Rules of Flat Track Roller Derby Casebook.
+They must do so as soon as possible and at a volume sufficient to be heard by the penalized Skater and relevant Officials given the constraints of the venue.
+Until this has occurred, nobody is required to behave as if the Skater has been penalized.
+No penalty should be assessed unless the Official is certain that the penalty is warranted.
+If Officials cannot agree on whether an action warrants a penalty, the Head Referee’s decision is final.
+If the only Blocker from a team who is on the track commits a penalty, the Blocker should not be sent off the track until another Blocker from their team rejoins the Pack.
+If a penalty is warranted, but it is not clear to whom the penalty should be assessed, an Official should assess the penalty to the nearest Blocker from the appropriate team if the action is committed mid-Jam, or to the team’s Captain if the action is committed between Jams.
+If an Official is not certain which team is responsible, no penalty should be assessed.
+If off-skates Team Staff commit a penalty, the penalty should be assessed to the appropriate team’s Captain.
+If a penalty is assessed to the Captain due to the fact that they are Captain, they will serve the penalty as a Blocker in a following Jam.
+
+
+
+
+
+Appendices¶
+Appendix A: Track Design and Specifications (PDF download)
+
+
+Glossary¶
+Some words or concepts used in this ruleset hold a specific or technical meaning; those are defined in this section.
+Any words used in the rules that are not defined herein should be treated as colloquial use.
+If more than one reasonable interpretation of a colloquial term exists that has measurable impact on the game, it will be determined by consensus of the Officials for that game.
+
+Actively Absorbing¶Any movement toward oncoming contact intended only to protect the recipient of the contact.
+
+Ahead¶One thing (for example, a Skater, a line, the Pack) is “ahead” of another thing, in relation to the track, if it is nearer in the counterclockwise direction than the clockwise direction.
+
+Apex Jump¶An attempt to legally shorten the distance travelled around the curve of the track by leaping over the track boundary and landing back in bounds.
+
+Assist¶Physically affecting a teammate. Common examples include a push or a whip.
+
+Behind¶One thing (for example, a Skater, a line, the Pack) is “behind” another thing, in relation to the track, if it is nearer in the clockwise direction than the counterclockwise direction.
+
+Blocker¶The positional Skaters who form the Pack. Up to four Blockers from each team may skate, per Jam. One Blocker per Jam, for each team, may be a Pivot Blocker.
+
+Blocking Zones¶Areas of the body that may be used to hit an opponent when performing a block.
+
+Captain¶The Skater identified, via a visible “C” on their body or clothing, to speak on the team’s behalf. If one has not been selected or has left the game, the team may determine one at any time by informing the Head Referee, and must determine one if necessary (for example, if a penalty is to be assessed to a Captain, the team must determine a Captain).
+
+Counter-Block¶Any motion/movement toward an oncoming block by the receiving opponent designed to counteract an opponent’s block. Counter-blocking is treated as blocking and held to the same standards and rules (except where specified). Continued engagement which goes beyond countering the initial effect of the opponent’s block should be considered a separate block, and judged separately.
+
+Designated Alternate¶The Captain designates an additional person to act on their team’s behalf via a visible “A” on their uniform or body; this person is the Designated Alternate. The Designated Alternate may be a teammate, coach, or manager. A team may only have one Designated Alternate. If one has not been selected or has left the game, the Captain may designate a different Alternate by informing the Head Referee.
+
+Down¶A Skater is down when part of the Skater’s body or equipment (aside from skates) is touching the floor. A Skater whose only contact with the floor (aside from skates) is one hand is not considered down. Once down, a Skater is considered down until the Skater is standing, stepping, or skating.
+
+Engagement Zone¶The zone in which Blockers are in play and may legally engage and be engaged. The Engagement Zone extends from 20 ft (6.10 m) behind the rearmost Pack Skater to 20 ft (6.10 m) in front of the foremost Pack Skater, between the inside and outside track boundaries.
+
+Engaging¶Any sort of interaction with another Skater on the track during a Jam (see also assist and blocking, Section 2.4).
+
+Established Position¶Where a Skater is physically; an area of the track where the Skater has secured their place. Examples include up, in bounds, down, out of bounds, in play, and out of play.
+
+Exiting the Track¶(Penalty Enforcement) Exiting the track to the outside in order to report to the Penalty Box.
+
+Expulsion¶Removal by the Head Referee of a Skater or Team Staff from the remainder of the game for a serious illegal action, such as physical violence or any action deemed by the Officials to cause an extraordinary physical threat to others.
+
+Falling Small¶A Skater is said to have “fallen small” if they fall with the arms and legs controlled, tucked into the body, and not flailing or sprawled.
+
+Forceful Contact¶Abrupt contact (such as hitting or striking) with a significant amount of strength and energy or any contact that either has the potential to harm the recipient or significantly alter their position, balance, speed, trajectory, etc. (regardless of whether that potential is actualized).
+
+Fouling Out¶Removal, by an Official, of a Skater from the remainder of the game for having seven penalties recorded for that Skater.
+
+Governing Body¶The organization responsible for the sanctioning of the game; or in an unsanctioned game, the organization responsible for determining the terms of the game, such as a tournament, local league, or other person(s) serving in that role.
+
+Grasping¶Actively gripping something; for example, grabbing a teammate’s uniform or helmet cover, or holding hands. The grasping Skater’s arm, from the hand up to (but not including) the shoulder, is considered to be part of the “grasp.” The teammate is not considered part of the grasp, unless the teammate is independently grasping.
+
+Head Referee¶One Referee will be designated the Head Referee. The Head Referee is the ultimate authority of the game.
+
+Hips¶The laterally-projecting prominence of the pelvis or pelvic region from the waist to the thigh. The central point of this area determines a pass, regardless of the direction the Skater is facing.
+
+Illegal Procedure¶Any technical (non-contact) infraction that violates the rules.
+
+Immediately¶The first legal opportunity in which someone may complete an action.
+
+Impeding¶Actions that restrict an opponent’s speed and/or trajectory in any direction on the track.
+
+Impenetrable¶A wall is considered to be impenetrable from a certain direction when, to achieve a pass on one or more of the Skaters who comprise the wall, an opponent would need to physically break bones or joints. The parts that would need to be physically broken in order to pass are considered the “impenetrable” parts. For example, if two teammates are skating forward with their arms around each other’s backs, the arms constitute an impenetrable wall, so that an opponent could not pass between the pair without breaking one of those Blockers’ arms.
+
+In Bounds¶A Skater is in bounds if the only points at which they are touching the floor are on or in between the track boundary lines.
+Once touching beyond the track boundary, a Skater is considered to be in bounds again once all parts of the Skater that are touching the floor are on or between the track boundary lines.
+A Skater who touches the floor beyond the track boundary with only one arm or hand is still considered in bounds (see also out of bounds, straddling).
+
+In Play¶A Blocker is in play when they are in bounds and upright within the Engagement Zone.
+Jammers who are in bounds and upright are always in play.
+
+In Position¶A Skater is in position when they are on the track, in bounds, and in the designated area for their position when the Jam-Starting Whistle is blown.
+
+In Queue¶Actively skating while having a penalty pending, usually after having been waved back to the track due to the Penalty Box being full, or having been assessed a penalty while being the only Blocker on the track.
+
+Initiator¶The Skater who is responsible for contact happening to an opponent (initiating a block) or teammate (initiating an assist). A Skater can also initiate their own assist by taking a whip off of a teammate’s body, or initiate a counter-block in response to an opponent’s block. The initiator of a block or assist is always responsible for the legality of the contact.
+After a counter-block, continued engagement by the counter-blocking skater should be considered a new action, with the skater responsible for the continued contact considered the initiator.  The legality of this action should be judged separately from the initial block and counter-block.
+
+Insubordination¶Willfully or neglectfully failing to comply with an Official’s orders. Wrongful or improper behavior motivated by intentional disregard for the rules.
+
+Jam¶The basic unit of play for the game. A Jam can last up to two minutes.
+
+Jammer¶The point scorer for a team.
+
+Lap/Lapping¶One Skater has lapped an opponent if the Skater has passed the opponent twice in a row without the opponent having passed the lapping Skater in between. If a Jammer passes an opponent for the second time, but the second pass was not “earned,” the Jammer is still said to have lapped their opponent, and may earn a “re-pass” on said opponent to score the missed point.
+
+Lead Jammer¶The Lead Jammer is the first Jammer to establish superior position to the foremost in-play Blocker, having already earned a pass on all Blockers excluding those ahead of the Engagement Zone.
+
+Linking¶Interlocking of arms via crooking of an elbow. Both Skaters’ arms, up to (but not including) the shoulder are considered to be part of the link.
+
+No Impact¶A violation of the rules of the game that has limited impact on safety or gameplay, and does not warrant a penalty.
+
+No Pack¶When there is not a group of Blockers (from both teams) skating within 10 ft (3.05 m) of each other, or when there are two or more equally numbered groups of Blockers not skating within 10 ft (3.05 m) of each other.
+
+Not-On-the-Track (NOTT) Point¶A point given for an opponent who is not on the track (such as Skaters in the Penalty Box) that the Jammer earns immediately upon earning a pass on any opposing Blocker, per trip through the Pack.
+
+Out of Bounds¶A Skater is out of bounds when part of the Skater’s body or equipment is touching the floor beyond the track boundary.
+One arm or hand touching the floor beyond the track boundary does not render a Skater out of bounds (see also in bounds, straddling).
+
+Out of Play¶A Blocker who is in bounds, but positioned outside of the Engagement Zone. If no Pack is defined, all Blockers are out of play. When a Jammer is out of bounds, they are out of play.
+
+Pack¶The largest group of in-bounds Blockers, skating or standing in proximity (within 10 ft [3.05 m]), containing members from both teams. The Jammers are independent of this definition.
+
+Pack Skater¶Any Blocker who is part of a legally defined Pack.
+
+Pass¶Earned Pass¶See Section 2.5
+
+Passing the Star¶Star Pass¶The act of transferring Jammer status, which is accomplished by the Jammer handing their helmet cover (the Star) to the Pivot.
+
+Penalty¶A violation of the rules of the game requiring the Skater to serve time in the Penalty Box, or the specific punishment of serving time in the Penalty Box due to the commission of such a violation.
+
+Pivot Blocker (Pivot)¶A Blocker with extra abilities and responsibilities, commonly referred to as the Pivot (see Section 2.2.3).
+
+Points Awarded in Error¶Points that have not been legally earned by a Jammer and have been awarded to the team incorrectly and/or erroneously by an Official or as the result of a technology malfunction.
+
+Points Denied in Error¶Similar to points awarded in error, points denied in error are points that have been legally earned by a Jammer but have not been added to the Official Score due to delay, an error by an Official, or as the result of a technology malfunction.
+
+Positional Blocking¶Blocking without contact; positioning oneself so as to impede an opponent’s movement on the track. Positional blocking need not be intentional.
+
+Protective Gear¶Skaters must wear helmet, mouthguard, wrist guards, elbow pads, and knee pads so long as they provide additional protection and the Skater is physically able to wear them. Skaters shall not be penalized if the equipment does not provide additional protection for the Skater.
+
+Re-Pass¶The act of passing an opponent who has already been passed during the current lap. Most relevant to a Jammer who ends up ahead of an opponent without “earning” the pass. Such a Jammer would not score a point on that opponent, but could re-pass that opponent, earning their second pass, in order to score that point.
+
+Relative Position¶A Skater’s location, when in bounds and upright, in relation to other Skaters involved in the action. Relative position is said to be “gained” or “lost” if said location changes in a way that gives or loses some advantage (for example, one Skater passing another, or being knocked down, out of bounds, or out of play). Relative position is only measured in the counterclockwise direction.
+
+Roster¶The list of Skaters for a team, and their identifying numbers, who are eligible to play in the game.
+
+Sitting¶A Skater whose buttocks are in full contact with the seat of a chair or bench.
+
+Skating – Direction of Travel¶A Skater’s direction of travel (for example, counterclockwise, lateral, or clockwise) is measured by the skates moving relative to a line perpendicular to the inside track boundary. If the skates are moving in opposite directions, direction of travel is determined by the hips.
+
+Standing¶A Skater holding their body weight on their skates, such that they are not down and it is obvious to Officials, Skaters, and spectators that they are not sitting.
+
+Stopped¶A Skater not making any directional movement with their skates.
+
+Straddling¶A Skater is straddling when they are simultaneously touching the floor on or between the track boundary lines and beyond the track boundary.
+Touching the floor beyond the track boundary with only one arm or hand does not render a Skater straddling.
+Straddling Skaters are considered out of bounds, except where otherwise noted (see also in bounds).
+
+Substitution¶Replacing a Skater on the track or in the Penalty Box with a teammate.
+
+The Star¶The Jammer helmet cover, which has two stars on it, one on each side.
+
+The Stripe¶The Pivot helmet cover, which has one long stripe down the middle of it.
+
+Target Zones¶Areas of the body on an opponent that a Skater makes contact to when blocking.
+
+Trip Through the Pack¶Jammers make trips through the Pack. Each trip represents an opportunity to score points on opponents. (See Section 3).
+
+Upright¶Any Skater who is not considered down.
+
+Warning¶A formal verbal indication from the Official that play is currently or is about to be improper, so that a Skater can take corrective action.
+
+
+
+
+
+
+
+Casebook¶
+
+
+1. Game Parameters & Safety¶
+No scenarios for Section 1.
+
+
+2. Gameplay¶
+
+2.1. The Track¶
+No scenarios for Section 2.1
+
+
+2.2. Positions¶
+
+When a Jam begins, the Jammers must be touching on or behind the Jammer Line.
+All Blockers must be behind the Pivot Line, ahead of the Jammer Line, and all Non-Pivot Blockers must not be touching the Pivot Line.
+If either Pivot lines up touching the Pivot Line at the Jam’s start, all Non-Pivot Blockers must be behind that Pivot’s hips.
+—Origin: Section 2.2
+
+
+
+
+
+
+Scenario C2.2.AAs the Jam-Starting Whistle sounds, Red Jammer’s left skate has rolled forward, past the Jammer Line.
+Outcome: Red Jammer is issued a False Start warning and must yield their position to all Skaters in their immediate vicinity.
+If they do not yield, they will receive a penalty.
+Rationale: Red Jammer established their starting position partially out of position, with one skate ahead of the Jammer Line.
+Keep in Mind: Until they have been issued this warning, they cannot be penalized for failure to yield.
+
+
+
+Scenario C2.2.BAs the Jam-Starting Whistle sounds, White Pivot has lined up entirely in front of the Pivot Line.
+Outcome: White Pivot immediately receives a penalty for illegal positioning.
+Rationale: White Pivot was entirely out of position, having both skates ahead of the Pivot Line.
+They are immediately penalized, rather than warned and allowed to yield, because this is a flagrant violation of the rules regarding starting positions.
+
+
+
+Scenario C2.2.CAs the Jam-Starting Whistle sounds, White Blocker is out of bounds on the inside of the track.
+Outcome: White Blocker is directed to return to their bench and cannot participate in the Jam.
+Rationale: White Blocker was not on the track at the start of the Jam and cannot participate in that Jam.
+Keep in Mind: Even if White Blocker were straddling, they would still be considered out of bounds, thus not on the track, thus not allowed to participate in the Jam.
+
+
+
+Scenario C2.2.DAll White Blockers (including White Pivot) line up legally between Jams at the Pivot Line, but not touching the line.
+Red Pivot lines up behind them. Immediately before the Jam starts, Red Pivot reaches forward with their leg and places their skate on the Pivot Line.
+Outcome: The White Non-Pivot Blockers should all be issued False Start warnings, and must yield their positions to all nearby Skaters; any who do not yield should receive a penalty.
+Rationale: Red Pivot established their position in contact with the Pivot Line before the beginning of the Jam, so Non-Pivot Blockers must begin the Jam behind the hips of any Pivots in contact with the Pivot Line.
+As White Non-Pivot Blockers began the Jam in front of Red Pivot, they are partially illegally positioned, so all but the White Pivot are required to yield.
+
+
+
+Scenario C2.2.EIn an attempt to reach the track before the Jam begins, Red Blocker jumps from out of bounds.
+The Jam-Starting Whistle blows while they are still airborne.
+Red Blocker lands in bounds and upright after the Jam begins.
+Outcome: Red Blocker attempted to enter the track from an out of bounds state and was still airborne at the start of the Jam.
+They should be ordered back to their bench and may not participate in the Jam.
+Rationale: While airborne, a Skater retains the attributes of their previous status. Red Blocker’s previous status was out of bounds.
+As such, they remain out of bounds while airborne.
+Red Blocker was not on the track when the Jam began.
+
+
+
+Scenario C2.2.FWhite Pivot is seated in the Penalty Box. Between Jams, three White Blockers—one of whom is wearing a Stripe—line up on the track.
+Outcome: If the Jam starts with two White Skaters wearing the Stripe, the Officials should direct the White Blocker on the track to remove their Stripe.
+Rationale: The Skater seated in the Box is considered to be the White Pivot for the Jam. As the White team fielded the correct number of Blockers, there is no need to send the “extra” White Pivot back to their bench.
+Keep in Mind: If the White Blocker refuses to remove the Stripe, that White Blocker should be penalized. Refusal to obey an instruction about improper gameplay is insubordinate.
+Keep in Mind: If the White Blocker engages in any privileges reserved for the Pivot before they have removed the Stripe, even if no warning has yet been issued, that White Blocker should be penalized, as their illegal Stripe had impact on the game.
+
+
+
+Scenario C2.2.GAs the Jam-Starting Whistle sounds, Red Pivot’s left skate has rolled backward, behind the Jammer Line. Red Pivot is issued a False Start warning. Red Pivot disengages from play, attempting to yield to Skaters in the immediate proximity. No other Skaters take advantage of Red Pivot’s attempt to yield.
+Outcome: Red Pivot is no longer required to yield and may continue to play.
+Rationale: Red Pivot made a genuine attempt to yield their position, allowing time for Skaters in proximity to take advantage. Giving Skaters in the immediate vicinity a reasonable opportunity to take advantage, even if that opportunity is not exercised, is enough to relieve Red Pivot of their requirement to yield.
+
+
+
+Scenario C2.2.HAll four Red Blockers line up directly behind the Pivot Line, leaving no room for another Skater to be legally positioned in front of them. White Blocker positions themself in front of the Red Blockers by straddling the Pivot Line.
+Outcome: White Blocker is penalized immediately upon the jam starting whistle.
+Rationale: Even though the White Blocker is partially legally positioned, they have intentionally  adopted an illegal starting position to gain an advantage. Even if a False Start warning was issued, the White Blocker has already gained a strategic advantage by being positioned ahead of the Red Wall and impeding the Red Blockers’ ability to immediately move forward. Because of this advantage and the intentional nature of the illegal position, an immediate penalty is warranted.
+Keep in Mind:  If White Blocker had been touching or had part of their skate ahead of the Pivot Line, but are otherwise not ahead of it, a False Start warning should be issued, and they should be given an opportunity to yield their position.
+Keep in Mind: If the Red Blockers moved towards the Jammer Line so that the White Blocker’s immediate advantage is removed, then a False Start Warning should be given.
+
+
+2.2.1. Jammers¶
+
+The Jammer is denoted as the Skater in visible possession of the Jammer helmet cover (a.k.a. “The Star”) at the beginning of the Jam.
+—Origin: Section 2.2.1
+
+
+
+Scenario C2.2.1.ARed and White Skaters repeatedly shift positions between Jams, attempting to gain position on one another.
+As the Jam starts, Red 34 is lined up fully behind the Jammer Line but is not wearing the Star, while Red 27 is lined up fully in front of the Jammer Line and is wearing the Star.
+Outcome: Red 27 is the Jammer.
+Rationale: Red 27 is the Skater in possession of the Star.
+The Star denotes who the Jammer is.
+Both Skaters should receive a penalty for beginning the Jam fully out of position.
+Keep in Mind: Once the Jam starts, the Jammer Referee should communicate to Red 27 that they are the Jammer for this Jam.
+Since the rules do not accommodate for Jammers who forget their helmet covers, starting position should not take precedence over wearing the Star.
+In this case, both the Jammer (Red 27) and the Blocker (Red 34) have started the Jam in illegal starting positions.
+Keep in Mind: Assume the following Jammer hierarchy:
+
+
+
+
+
+
+
+1
+The Jammer for the
+upcoming Jam is
+the Jammer from the previous Jam who is in the
+Penalty Box.
+
+2
+If no one satisfies 1,
+the Jammer is
+the Skater who visibly controls the Star who has
+lined up in the Jammer Starting Position.
+
+3
+If no one satisfies 2,
+the Jammer is
+the Skater who visibly controls the Star but who
+has lined up out of position.
+
+4
+If no one satisfies 3,
+there is no Jammer for that team in this Jam, and
+the Jam should not start.
+
+
+
+
+
+
+Scenario C2.2.1.BBefore the Jam-Starting Whistle, Red Jammer skates backward. They come to a quick stop and sprint forward at the Jam-Starting Whistle.
+Outcome: If Red Jammer was moving clockwise or stopped when the whistle occurred, nothing should be done. If Red Jammer turned counterclockwise earlier and was gaining speed, this should be treated as a false start.
+Rationale: Jammers may not be gaining speed counterclockwise at the Jam-Starting Whistle.
+
+
+
+2.2.2. Lead Jammer¶
+
+A Jammer becomes ineligible to earn Lead during a Jam if they commit a penalty during that Jam, exit the front of the Engagement Zone without having earned Lead, remove their helmet cover, or have their helmet cover removed by a teammate.
+—Origin: Section 2.2.2
+
+
+
+Scenario C2.2.2.ARed Jammer starts the Jam with their helmet cover inside-out.
+The stars are not visible with high contrast.
+They remove the cover, invert it, and put it back on their helmet.
+They then legally pass all Skaters, including the foremost Blocker.
+Outcome: Red Jammer is declared Lead.
+Rationale: Since Red Jammer did not have the ability to gain Lead prior to removing the Star from their head, they did not lose that ability.
+Keep in Mind: If Red Jammer had removed the Star when the stars were visible, they would have lost the ability to gain Lead.
+
+
+
+Scenario C2.2.2.BRed Jammer exits the Engagement Zone but does not earn Lead Jammer.
+White Jammer is knocked down, but not out of bounds.
+While White Jammer is down, the opposing Blockers—including the foremost Blocker—all skate clockwise behind them. White Jammer then stands back up.
+Outcome: White Jammer should be declared Lead when they stand.
+Rationale: By skating clockwise behind White Jammer, the Red Blockers ceded their position.
+As such, White Jammer earned those passes and they count toward earning Lead.
+
+
+
+Scenario C2.2.2.CWhite Jammer makes their way through the Pack on their initial trip, while Red Jammer remains stuck at the rear.
+Through numerous blocks and changes in position, White Jammer earns a pass on all Blockers, but none of them are ever the foremost Blocker in the Pack when White Jammer earns the pass.
+Outcome: The Jammer Referee should not declare White Jammer Lead (yet).
+Rationale: White Jammer has earned a pass against all Blockers, but has never established superior position to the foremost Blocker in the Pack.
+Lead Jammer is earned when the Jammer has earned a pass on all in-play Blockers and established a superior position to the foremost in-play Blocker.
+
+
+
+Scenario C2.2.2.DRed Jammer passes all Blockers on their initial trip through the Pack, except for one White Blocker.
+Red Jammer legally pushes White Blocker to the front of the Engagement Zone, and then out of play.
+Outcome: Red Jammer is declared Lead as soon as White Blocker leaves the front of the Engagement Zone.
+Rationale: Red Jammer only needs to pass the in-play Blockers to earn Lead Jammer.
+
+
+
+Scenario C2.2.2.EWhite Jammer and Red Jammer are both ahead of all Blockers except White Pivot.
+Red Jammer is ahead of White Jammer, and pushes White Pivot legally out of the Engagement Zone.
+Outcome: Red Jammer is declared Lead.
+Rationale: At the moment that White Pivot left play, both Jammers had passed all in-play Blockers.
+Because Red Jammer was foremost, Red Jammer was declared Lead.
+
+
+
+Scenario C2.2.2.FRed Jammer passes all Blockers on their initial trip through the Pack, except White Pivot.
+Due to unrelated gameplay, Officials declare a No Pack situation. Red Jammer remains behind White Pivot.
+Outcome: The Jammer Referee should not declare Red Jammer Lead (yet).
+Rationale: Although White Pivot is now out of play, No Pack situations are different from Out of Play situations regarding earning passes and gaining position to earn Lead Jammer status.  During a No Pack situation, a Jammer must still earn passes and may not illegally gain position on Skaters while the Jammer is out of bounds.
+Keep in Mind: As White Pivot is currently the foremost Blocker, Red Jammer could earn Lead Jammer status by passing White Pivot.
+Keep in Mind: If the Pack was reformed and White Pivot was ahead of the Engagement Zone, at that point Red Jammer would meet the requirements to earn Lead Jammer status.
+
+
+
+2.2.3. Pivot Blocker¶
+No scenarios for Section 2.2.3
+
+
+2.2.4. Passing the Star¶
+
+A team’s Jammer may transfer their position to their team’s Pivot by successfully completing a legal Star Pass.
+A legal Star Pass requires the jammer to hand the Star to their team’s Pivot while both Skaters are upright, in bounds, and in play; and while neither Skater is en route to, or in queue for, the Penalty Box.
+—Origin: Section 2.2.4
+
+
+
+Scenario C2.2.4.AWhite Jammer removes their helmet cover and directly hands it to a White Non-Pivot Blocker.
+White Jammer releases the helmet cover.
+White Non-Pivot Blocker immediately drops the helmet cover.
+Outcome: No penalty
+Rationale: While White Jammer may only pass the Star to their Pivot, because the White Blocker immediately dropped the Star, there has been no impact on gameplay.
+Keep in Mind: If White Blocker did not immediately relinquish control of the helmet cover, a penalty would be issued to White Jammer.
+Keep in Mind: If White Jammer were holding the Star and White Blocker wrested it from their grasp, it would have been White Blocker who initiated the illegal Star Pass, and thus White Blocker would be penalized.
+
+
+
+Scenario C2.2.4.BWhite Jammer removes their helmet cover and hands it to White Pivot.
+Before White Jammer releases their grip on the Star, White Pivot is knocked out of bounds.
+White Jammer then releases the Star to the out-of-bounds Pivot.
+Outcome: The Star Pass is unsuccessful.
+Both Skaters retain their existing positions.
+No penalty is warranted at this time, but the Pivot is warned they are not the Jammer.
+Rationale: Although White Jammer attempted to pass the Star while White Pivot was eligible, a Star Pass is a single point of exchange: the moment at which the Star is released.
+Since the Skaters’ positions are not affected, and it is legal for the Pivot to control the helmet cover, there is no impact on gameplay.
+Keep in Mind: If, after being warned that they are not the Jammer, the Pivot puts the Star on (or fails to remove it), they should be penalized.
+
+
+
+Scenario C2.2.4.CWhite Pivot’s Stripe falls off in normal gameplay.
+White Jammer removes their helmet cover, hands it to White Pivot, and releases the Star.
+Outcome: The Star Pass is unsuccessful. Both Skaters retain their existing positions. No penalty is warranted at this time, but the Pivot is instructed to drop the Star.
+Rationale: A Pivot who is not visibly wearing the Stripe cannot use the privileges of being a Pivot, such as receiving a Star Pass or even recovering the Star after an incomplete Star Pass.
+Because the Pivot’s helmet cover came off due to gameplay (as opposed to the Pivot intentionally removing it), they are warned that they are not the Pivot and allowed to relinquish control of the Star.
+Keep in Mind: Once White Pivot is aware that they are not visibly wearing the Stripe, they must immediately relinquish control of the Star.
+
+
+
+Scenario C2.2.4.DRed 21 is the Jammer.
+They remove their helmet cover and throw it at Red 45, who is the Pivot.
+Red 45 (still the Pivot) catches the helmet cover and hands it back to Red 21 (still the Jammer).
+Both Skaters grip the Star, then Red 21 releases it.
+Red 45 maintains control of the Star and puts it on their helmet.
+Outcome: Red 45 is now the Jammer.
+Rationale: Throwing the Star is an incomplete Star Pass, not an illegal one.
+A Star Pass cannot be successfully completed by throwing.
+Catching the Star (out of the air) is equivalent to retrieving it (from the floor); the Pivot is not required to let the Star fall to the track first.
+Once Red Jammer clutches the helmet cover, they reestablish their control of the Star regardless of whether the Pivot lets go or not.
+They then complete the Star Pass in a legal fashion.
+
+
+
+Scenario C2.2.4.EWhile moving through the Pack, the Star comes off Red Jammer’s helmet and sticks to the Velcro on White Blocker’s wrist guard.
+White Blocker pulls the helmet cover free and drops it.
+Outcome: White Blocker is not issued a penalty.
+Rationale: White Blocker gained temporary possession of the helmet cover and dropped it.
+Because White Blocker did not intentionally attempt to remove the Star from Red Jammer’s helmet, they should not be issued a penalty for accidentally coming into control of the Star as long as they immediately relinquish control of the Star.
+The Star may get moved as part of normal gameplay, but may not be controlled by anyone other than the Jammer or Pivot.
+Keep in Mind: If White Blocker had not touched the Star, which was stuck to their wrist guard and allowed Red Jammer or Pivot to recover it once they were aware of it, similarly no penalty would be warranted.
+Keep in Mind: If White Blocker had pulled the Star off their Velcro, but not immediately relinquished control of the Star once they removed it from their wrist guard, a penalty would be warranted.
+
+
+
+Scenario C2.2.4.FWhite Jammer legally passes the Star to White Pivot.
+Later in the Jam, White Pivot-turned-Jammer receives a penalty and goes to the Penalty Box.
+The Jam ends and Red team calls an Official Review.
+As a result of the review, the original White Jammer receives a penalty for an illegal action they took as Jammer.
+Outcome: The additional penalty should be served by White Pivot-turned-Jammer and recorded for the original White Jammer.
+The original White Jammer should not be allowed to participate in the game until time for the penalty they earned has completed.
+Rationale: White Jammer legally passed the Star, making White Pivot the new Jammer, but received a penalty upon review for an action committed while they were the Jammer.
+This would put two different White Skaters in the Box as a Jammer.
+A penalty is assigned to a Skater.
+The penalty time is assigned to a position, with the Skater not allowed to participate until it has been served.
+In this example, the original White Jammer receives the penalty and the current White Jammer (former Pivot) serves the time.
+Reverting the current Jammer to a Pivot or having the original Jammer serve the time as a Blocker would deprive Red team of earned advantages.
+
+
+
+2.2.5. Blockers¶
+No scenarios for Section 2.2.5
+
+
+
+2.3. Engagement Zone & Pack¶
+
+The Pack is the largest group of in-bounds and upright Blockers in proximity and containing members from both teams.
+The Engagement Zone is the area in which it is legal for Blockers to engage or be engaged.
+—Origin: Section 2.3
+
+
+
+Scenario C2.3.A
+
+
+Red Blocker 1 blocks White Blocker 1 out of bounds.
+Outcome: No Pack.
+No penalty.
+White Blocker 1 must return in bounds to reform the Pack as soon as they legally can do so, and Red Blocker 1 must skate counterclockwise to allow White Blocker 1 to do so.
+Rationale: Because there were no White Blockers within 10 ft (3.05 m) of any Red Blockers, no Pack could be defined.
+All Blockers must work together to allow a Pack to reform as quickly as possible.
+
+
+
+Scenario C2.3.B
+
+
+The Red wall skates forward slowly while the White Blockers stand still.
+Outcome: “No Pack” is declared. No penalty.
+Rationale: The Red Blockers’ slow skating provided opportunity for White Pivot to maintain a Pack, so the Red Blockers should not be penalized.
+White Pivot is not required to maintain the Pack, but is required to work to reform a Pack if there is no Pack.
+Also, White Pivot is prohibited from making sudden movements that destroy the Pack.
+Keep in Mind: If, instead of moving forward, the Red Blockers stayed still while White Pivot skated backward or took a knee, White Pivot should be penalized.
+Roller derby is played in the counterclockwise direction, so clockwise movement is held to a different standard than counterclockwise movement, and taking a knee is always a sudden action.
+Subtle movements such as shifting one’s weight while standing should not be considered sudden actions.
+
+
+
+Scenario C2.3.C
+
+
+In the above image, Red 3 and White Pivot are more than 10 ft (3.05 m) apart, as are Red 1 and White 3.
+Accordingly, the Pack is comprised of White Pivot, Red 2, White 1, and White 2.
+Red 1 and Red Pivot are out of play.
+The Pack would be comprised of the following Skaters if the following Blockers fell down:
+
+
+
+
+
+
+White 2
+White 1, Red 2, White Pivot
+
+White 1
+No Pack. Red 3 and White 3 could be a Pack of
+two, but so could White Pivot and Red 2.
+
+Red 2
+White 3 and Red 3
+
+White Pivot
+White 1, White 2, Red 2
+
+Red 3 or
+anybody ahead
+of them
+The Pack does not change.
+
+
+
+
+
+
+2.4. Blocks and Assists¶
+No scenarios for Section 2.4.
+
+
+2.5. Passing¶
+
+Skaters gain superior position on other Skaters by passing them in the counterclockwise direction.
+Jammers only “earn” a pass if the pass occurs while the Jammer is wearing the Star on their helmet with the stars showing.
+—Origin: Section 2.5
+
+
+
+Scenario C2.5.AWhite Jammer is on their second trip through the Pack and has not yet earned any passes on Red Blockers. Red Pivot receives a penalty, and begins to exit the track. White Jammer passes Red Pivot while Red Pivot is still in bounds.
+Points: One point.
+Rationale: Blockers who have been directed to the Penalty Box but are still touching in bounds (including straddling) can still be scored upon as if they had not been penalized. White Jammer earns a pass on penalized Red Pivot by gaining superior position before Red Pivot exits the track.
+Keep in Mind: If there were other Red Blockers in the Penalty Box, earning a pass on Red Pivot would also result in earned passes on those penalized Red Blockers.
+
+
+
+
+3. Scoring¶
+
+3.1. Earning Points¶
+
+Jammers score one point every time they lap an opposing Blocker.
+—Origin:  Section 3.1
+
+
+
+Scenario C3.1.ARed Jammer approaches the Pack for their second trip. Red Jammer passes all opponents except a White Non-Pivot Blocker, who blocks Red Jammer out, forcing Red Jammer to re-enter behind the Pack. Before Red Jammer reenters the Pack, White Jammer passes the Star to White Pivot. Red Jammer reenters the Pack, passes all opponents again, and exits the Engagement Zone.
+Points: Four points.
+Rationale: As a result of the successful Star Pass, the White Jammer and White Pivot exchange status in terms of scoring and being scored upon.
+Since the Red Jammer had already scored on the original White Pivot before the Star Pass, they have the point for the White Blocker (originally the White Jammer) in this trip and cannot score it again.
+Keep in Mind: Were it White Pivot who blocked Red Jammer out, and White Pivot received a Star Pass and exited the Engagement Zone before being passed, Red Jammer could still score four points by earning a pass on the former White Jammer (now a Blocker).
+
+
+
+Scenario C3.1.BRed Jammer enters the Pack ahead of White Jammer, while White Jammer is approaching the Pack for their second trip.
+Red Jammer passes the Star, and the new Red Jammer escapes the Pack.
+White Jammer enters the Pack and passes all four Red Blockers (including the original Red Jammer).
+Points: White Jammer scores four points.
+Rationale: All Blockers are considered to be tied together with respect to the opposing Jammer’s trip through the Pack.
+Even though White Jammer did not lap the original Red Jammer, when Red Jammer became a Blocker, this gave White Jammer lapping position.
+
+
+
+Scenario C3.1.CIntentionally Removed
+
+
+
+Scenario C3.1.DWhite Jammer is on their second trip through the Pack and jumps the apex, passing all four Red Blockers while mid-air. White Jammer’s right skate lands in bounds, with their hips ahead of all Blockers.
+As a result of the same action, White Jammer’s left skate subsequently lands out of bounds.
+Points: Four points.
+Rationale: White Jammer’s in-bounds status was maintained while airborne because the first part of their skate to touch back down touched in bounds.
+White Jammer’s upright status was maintained while airborne because they touched the floor skate first.
+The fact that White Jammer touched out of bounds with the other skate does not affect points (but does affect their subsequent position relative to the Skaters they passed while airborne).
+
+
+
+3.2. Scoring Trips¶
+
+Points are grouped by trips through the Pack.
+—Origin:  Section 3.2
+
+
+
+Scenario C3.2.AIntentionally Removed
+
+
+
+Scenario C3.2.BWhite Pivot is sent to the Penalty Box shortly after the Jam begins.
+Red Jammer completes their first trip through the Pack, and begins their second.
+Red Jammer earns a pass on two White Blockers before White Pivot returns to the track and the Jam is called.
+Points: Three points.
+Rationale: On Red Jammer’s second trip through the Pack, they earned a pass on White Pivot by earning a pass on the first White Blocker while White Pivot was penalized.
+
+
+
+Scenario C3.2.CAt the start of the Jam, Red Jammer blocks White Jammer out of bounds and skates clockwise.
+Red Jammer leaves the Engagement Zone from the rear, reenters it from the front, and skates in bounds to the rear of the Pack.
+White Jammer comes in behind Red Jammer, and gets stuck in the Pack prior to restarting their initial trip through the Pack.
+Red Jammer skates forward, exits the Engagement Zone from the front, enters the Engagement Zone from the rear, earns passes on all opponents, and completes their initial trip through the Pack.
+Points: Zero points.
+Rationale: Even though Red Jammer earned passes while “lapping” all opposing Blockers on their initial trip through the Pack, passes prior to the initial trip do not count toward lapping Blockers.
+
+
+
+Scenario C3.2.DWhite Blocker begins the Jam in the Penalty Box.
+Red Jammer finishes their first trip through the Pack and begins their second.
+White Blocker returns to the track behind Red Jammer.
+Red Jammer earns passes on all opponents and exits the front of the Engagement Zone.
+Points: Four points.
+Rationale: Because White Blocker returned to the track behind Red Jammer, Red Jammer could still earn a pass on them by earning a pass on another White Blocker.
+Keep in Mind: If White Blocker had passed Red Jammer before Red Jammer earned a pass on another opposing Blocker, Red Jammer would have to earn a pass on the returning White Blocker to score their point as usual.
+
+
+
+Scenario C3.2.EIntentionally Removed
+
+
+
+3.3. Scoring Avoidance¶
+
+Opponents can only avoid being scored upon by remaining ahead of the Jammer, or by ensuring that when they are passed, the pass is not earned.
+—Origin:  Section 3.3
+
+
+
+Scenario C3.3.AWhite Jammer is on their second trip through the Pack and earns a pass on all opposing Blockers except Red Pivot, who is in front of them. White Jammer exits the front of the Engagement Zone with Red Pivot still in front of them.
+Points: Four points.
+Rationale: Leaving the Engagement Zone ahead of the opposing Jammer is not a valid means for a Blocker such as Red Pivot to avoid being scored upon. Via this action, they denied White Jammer the opportunity to earn a pass on them during their second trip through the Pack. Thus, White Jammer is considered to have earned a pass on Red Pivot upon completing their second trip through the Pack. The other opposing Blockers had already been scored upon as usual.
+Keep in Mind: Had the Jam ended before White Jammer exited the Engagement Zone but while Red Pivot was ahead of them and also ahead of the Engagement Zone, White Jammer would have earned the pass on Red Pivot for the same reason because the Jam ending completes the scoring trip. However, had Red Pivot remained inside the Engagement Zone but ahead of White Jammer, White Jammer would not have earned a pass on Red Pivot because they had the opportunity to do so while inside the Engagement Zone.
+
+
+
+Scenario C3.3.BWhite Jammer is on their second trip through the Pack.
+They earn a pass on all opposing Blockers except Red Pivot, who is in front of them.
+Red Pivot forces White Jammer out of bounds, and then goes out of play.
+Red Pivot turns around, returns to play, and ends up behind White Jammer who is still out of bounds.
+White Jammer reenters in front of Red Pivot, and just ahead of the Engagement Zone.
+Points: Three points.
+Rationale: When White Jammer reentered the track outside the Engagement Zone, their second trip through the Pack was complete.
+At that time, Red Pivot was in play.
+As such, White Jammer had the opportunity to earn a pass on Red Pivot during that trip through the Pack by returning to play inside the Engagement Zone, and then passing the Red Pivot.
+
+
+
+Scenario C3.3.CWhite Jammer begins their second trip through the Pack.
+Red Blocker 1 is sent to the Penalty Box.
+Red Blocker 2 removes themself from play to address an equipment issue.
+White Jammer has not passed Red Blockers 3 or 4. The Jam is then called off.
+Points: Zero points.
+Rationale: White Jammer did not earn a pass on any opponents before the Jam ended.
+Keep in Mind: White Jammer had the opportunity to earn a pass on Red Blockers 3 or 4, and would have thereby earned a pass on Red Blocker 1 and Red Blocker 2 for a total of three points.
+
+
+
+Scenario C3.3.DWhite Jammer begins their second trip through the Pack.
+Red Blockers 1 and 2 are already seated in the Penalty Box.
+Red Blocker 3 goes to the Box for a penalty.
+Red Blocker 4 removes themself from play to address an equipment issue.
+White Jammer skates past their own teammates.
+Points: Four points.
+Rationale: Because there was no opportunity for White Jammer to earn a pass on any of their opponents, White Jammer earns a pass on all of them by completing the trip through the Engagement Zone as defined during a No Pack situation.
+
+
+
+Scenario C3.3.EWhite Jammer begins their second trip through the Pack.
+Red Blockers 1 and 2 are already seated in the Penalty Box.
+Red Blocker 3 loses a toe stop and removes themself from active play.
+Red Blocker 4 is issued a penalty and is told to remain on the track, but skates off anyway.
+White Jammer skates past their teammates and Red Blocker 4 while the Officials tell Red Blocker 4 to return to the track.
+Points: Four points.
+Rationale: Because Red Blocker 4 was not sent off the track to the Box, that Blocker is still part of active gameplay (just out of bounds). When White Jammer skated past Red Blocker 4, the pass was earned as usual even though Red Blocker 4 was out of bounds at the time.
+Keep in Mind: If Red Blocker 4 had taken off quickly so that White Jammer was denied the opportunity to earn a pass on Red Blocker 4, then when White Jammer completed their trip through the Engagement Zone, they would have earned the pass on Red Blocker 4 just as though Red Blocker 4 were ahead of the Engagement Zone (but still in bounds). Because there is no Pack, White Jammer’s trip through the Engagement Zone is completed when they are 20 ft (6.10 m) in front of the foremost in-bounds member of the prior Pack (in this case, their teammate).
+
+
+
+Scenario C3.3.FRed Jammer commits a penalty at the beginning of their second trip through the Pack, not having earned any passes on opponents during that trip. While Red Jammer is in the Penalty Box, two White Blockers are sent to the Box. Red Jammer is released and returns to the Engagement Zone. The Pack is moving fast, and Red Jammer does not pass anybody. The other two White Blockers are released and return to the track behind Red Jammer. The Jam ends.
+Points: Zero points.
+Rationale: Red Jammer had an opportunity to earn a pass on the two penalized White Blockers by earning a pass on one of the unpenalized White Blockers.
+
+
+
+Scenario C3.3.GIntentionally Removed
+
+
+
+Scenario C3.3.HIntentionally Removed
+
+
+
+Scenario C3.3.IRed Jammer completes their first trip through the Pack and has passed one opposing Blocker when they remove the Star. While the Star is off, the three other opposing Blockers commit penalties and are sent to the Penalty Box. The Jam ends while Red Jammer’s Star is still in their hand.
+Outcome: One point.
+Rationale: Red Jammer was not able to earn points while the Star was off, but they still receive the point earned while the Star was on.
+Keep in Mind: If Red Jammer had put the Star back on before the end of the Jam, they would have earned points for the other opposing Blockers as soon as the Star was back on their helmet.
+
+
+
+Scenario C3.3.JRed Jammer begins a scoring trip and is ahead of White Jammer.
+Red Jammer earns passes on three White Blockers but remains behind White Pivot.
+White Jammer successfully passes the Star to White Pivot, but remains behind Red Jammer.
+Red Jammer completes their scoring trip having never earned a pass on the original White Jammer (now Blocker).
+Outcome: Four points.
+Rationale: Red Jammer must have at least one opportunity to earn a pass on all opposing Blockers on every trip through the Pack, including a Jammer-turned-Blocker as a result of a Star Pass. When the Jammer becomes a Blocker, they are considered a Blocker returning to active gameplay (see Section 2.5).
+
+
+
+3.4. Penalized Jammers¶
+
+When a Jammer is penalized, they are considered to no longer be on the track.
+—Origin:  Section 3.4
+
+
+
+Scenario C3.4.ARed Jammer completes their first trip through the Pack and has not passed any opposing Blockers when they commit two penalties in quick succession. They are sent to the Penalty Box for 60 seconds, during which all four opposing Blockers also commit penalties and are sent to the Box. Red Jammer returns to the rear of the Pack, but the Jam ends before they can pass any opponents.
+Outcome: Zero points.
+Rationale: Red Jammer did not earn a pass on any opposing Blockers, so they were not eligible to earn any Not-On-the-Track points.
+Keep in Mind: If Red Jammer had earned a pass on any opposing Blockers before their penalty was served, they would have earned points for the other opposing Blockers upon returning to the track.
+Keep in Mind: If Red Jammer had earned a pass on an opposing Blocker once they returned from serving their penalty but before the Jam ended, they would have also earned a point on any opposing Blockers still seated in the Box or any opposing Blockers returning from the Box behind Red Jammer.
+
+
+
+3.5. Errors in Scoring & Score Reporting¶
+No scenarios for Section 3.5
+
+
+
+4. Penalties¶
+For the following scenarios, the following information should be assumed.
+
+The home team is wearing red uniforms.
+The visiting team is wearing white uniforms.
+Both teams have legally fielded three Blockers, a Pivot, and an Active Jammer, unless otherwise noted.
+The Jam begins and the Pack is defined.
+All Skaters move counterclockwise, unless otherwise noted, and begin to block one another.
+
+
+4.1. Contact Penalties¶
+
+4.1.1. Impact to an Illegal Target Zone¶
+
+Making contact to an Illegal Target Zone should be penalized based on the impact it has on the target. (see Section 2.4.1)
+—Origin: Section 4.1.1
+
+
+
+Scenario C4.1.1.AWhite Blocker, falling as a result of contact with Red Blocker, “falls small” by tucking their arms and legs close into their body. Red Jammer, skating close behind, trips over White Blocker and falls.
+Outcome: No penalty.
+Rationale: White Blocker did everything in their power to prevent themself from being a hazard.
+Keep in Mind: Were this the third time White Blocker had caused an opponent to fall in this manner, they should receive a penalty. While “falling small” mitigates the safety risk of a Skater falling on the track, excessive falling with impact represents a larger safety risk that should result in a penalty.
+
+
+
+Scenario C4.1.1.BRed Jammer skates along the inside line and attempts to jump the apex to pass the Pack. White Pivot legally initiates a block to Red Jammer’s upper arm, which knocks Red Jammer off balance, and their jump comes up short. Red Jammer falls out of bounds. They fall small, but their momentum causes them to slide back onto the track, into White Blocker’s legs. White Blocker trips over Red Jammer and falls.
+Outcome: Red Jammer is penalized.
+Rationale: Red Jammer is considered in bounds when White Pivot initiates a legal block. Though Red Jammer fell small, their forward momentum back onto the track means that they are a safety risk for more than just a “small” space. White Blocker’s loss of position as a result of that risk is enough to warrant a penalty.
+
+
+
+Scenario C4.1.1.CRed Pivot and two Red Blockers form a three-person wall.
+White Blocker initiates a block to the back of Red Pivot with a Legal Blocking Zone.
+Red Pivot does not fall but is pushed out of the center of the wall.
+White Jammer is able to pass the other two Red Blockers at the hips before Red Pivot reclaims their position.
+Outcome: White Blocker is penalized.
+Rationale: White Blocker did not gain advantage from their block to an Illegal Target Zone, but a teammate did: White Jammer earned passes and therefore scored points.
+Keep in Mind: If White Blocker had fully moved through the wall and continued on, that would also justify a penalty for gaining position, even though they were not scoring points.
+
+
+
+Scenario C4.1.1.DRed Blocker initiates a chest-to-chest block against White Blocker.
+The force of the impact causes secondary contact of Red Blocker’s upper arm to White Blocker’s neck.
+White Blocker’s head jerks back, but they do not fall off balance or go down.
+Outcome: Red Blocker is penalized.
+Rationale: Though Red Blocker’s hit was to a Legal Target Zone with a Legal Blocking Zone, and White Blocker lost neither position nor advantage, forceful contact to the head or neck should always result in a penalty.
+Keep in Mind: Incidental contact to the neck or head that is not forceful and does not have any other impact should not result in a penalty.
+
+
+
+Scenario C4.1.1.ERed Blocker skates clockwise when White Blocker steps behind them, positionally blocking Red Blocker’s back with a Legal Target Zone. Red Blocker stops skating clockwise.
+Outcome: No penalty.
+Rationale: A Skater cannot be penalized for positionally blocking an Illegal Target Zone. Skaters may be oriented and be moving in various directions during a game.
+
+
+
+Scenario C4.1.1.FWhite Jammer approaches the rear of the Pack, targeting Red Blocker. Well before impact is made, Red Blocker side-steps, presenting their back (an Illegal Target Zone). White Jammer makes contact anyway and knocks Red Blocker down.
+Outcome: White Jammer is penalized.
+Rationale: Red Blocker established a new position before White Jammer made contact. White Jammer is responsible for their initiated block, regardless of what their original target had been.
+Keep in Mind: If White Jammer had no reasonable opportunity to avoid Red Blocker’s Illegal Target Zone because Red Blocker had presented that Illegal Target Zone at the last moment, Red Blocker would then be initiating with their back, a Legal Blocking Zone.
+Because White Jammer would not be considered the initiator, no penalty is warranted.
+
+
+
+Scenario C4.1.1.GWhite Jammer skates fast and directly into Red Blocker’s back, who was not prepared for the contact. Red Blocker falls wildly and slides into the skates of a wall of White Blockers in front of them, who fall.
+Outcome: White Jammer is penalized. Red Blocker is not penalized.
+Rationale: White Jammer made illegal contact to Red Blocker. Due to this illegal contact, Red Blocker was unable to avoid committing their illegal action and should not be penalized.
+
+
+
+Scenario C4.1.1.HRed Jammer skates around the track at a high rate of speed. They slam very forcefully into White Blocker’s back without making any attempt to avoid illegal contact. White Blocker, however, does not fall and Red Jammer does not gain position on anybody as a result of this action.
+Outcome: Red Jammer is penalized and should be considered for an expulsion.
+Rationale: Contact to an opponent’s back is illegal, in part because it is unsafe. A flagrant violation of this rule poses a safety hazard to White Blocker, which has sufficient impact on the game to expel Red Jammer if judged to be negligent, intentional, or reckless, regardless of if White Blocker lost position.
+
+
+
+Scenario C4.1.1.IRed Jammer is stuck behind a wall of White Blockers.
+Red Jammer forcefully blocks White Blocker 1 in the back, but due to a legal assist from White Blocker 2, White Blocker 1 remains in position.
+Outcome: Red Jammer is penalized.
+Rationale: Contact to an opponent’s back is illegal, in part, because it is unsafe.
+Red Jammer was in control of their actions and initiated illegal forceful contact to the back of White Blocker 1.
+This action is penalized regardless of impact or outcome.
+Keep in Mind: If Red Jammer initiated non-forceful contact to the back of White Blocker 1 with a Legal Blocking Zone, the threshold for a penalty would be that of Illegal Target Zone contact.
+
+
+
+Scenario C4.1.1.JRed Jammer is approaching White Blocker 1.
+White Blocker 2 initiates a legal block on Red Jammer at the last second, forcing them out of their trajectory and directly into the back of White Blocker 1 (without any opportunity to recover before making contact).
+White Blocker 1 receives forceful contact but maintains their position ahead of Red Jammer and does not otherwise lose position.
+Outcome: No penalty.
+Rationale: Red Jammer was hit into the illegal contact with White Blocker 1 by an opponent’s legal gameplay; as such, their forceful contact to the back was unavoidable.
+The illegal contact did not result in any other impact (such as loss of position) that warranted a penalty.
+Keep in Mind: A Skater is responsible for maintaining control of their body and the contact they initiate as a result of legal gameplay.
+If White Blocker 1 had lost position, Red Jammer would be penalized.
+Keep in Mind: If Red Jammer made forceful contact to the back of White Blocker 1 due to the assist of a Red teammate, then the contact would be considered avoidable and Red Jammer penalized.
+
+
+
+4.1.2. Impact with an Illegal Blocking Zone¶
+
+Making contact with an Illegal Blocking Zone should be penalized based on the impact it has on the target. (see Section 2.4.2)
+—Origin: Section 4.1.2
+
+
+
+Scenario C4.1.2.ARed Jammer initiates a block with their forearms tucked into their torso, to a Legal Target Zone of White Blocker. White Blocker is knocked out of bounds.
+Outcome: No penalty.
+Rationale: Red Jammer’s forearms were fully tucked into their torso. While forearms are an Illegal Blocking Zone, tucking them into the torso effectively makes them part of the torso, and thus a Legal Blocking Zone.
+
+
+
+Scenario C4.1.2.BWhite Blocker initiates a block against Red Jammer, using their upper arm against a Legal Target Zone. The natural momentum of the impact causes additional contact, sliding down to White Blocker’s elbow. Red Jammer ends up out of bounds as a result of the action.
+Outcome: No penalty.
+Rationale: White Blocker used their upper arm to initiate the block. Red Jammer’s loss of position was a result of a block from a Legal Blocking Zone and not the additional contact that resulted from the momentum of the impact. Both examples are legal play.
+Keep in Mind: Many legal blocks include incidental or meaningless contact using an Illegal Blocking Zone, or to an Illegal Target Zone. If the illegal contact does not have further impact, no penalty should be assessed.
+
+
+
+Scenario C4.1.2.CWhite Jammer is stuck behind a Red wall. They push forward, but cannot find a way to break through. They strike their knee into Red Blocker’s buttocks. Red Blocker stumbles but does not go down or out. White Jammer fails to break through the wall.
+Outcome: White Jammer is penalized.
+Rationale: A Skater who intentionally and forcefully jabs an opponent with their elbow or strikes with their knee should receive a penalty regardless of whether it leads to a loss of position or advantage. This action is unsafe and unsporting.
+Keep in Mind: The fact that this action was intentional is only part of the reason a penalty is warranted. Intentional illegal action is not always penalized even though it is tacitly unsporting. Intentional actions designed to harm an opponent should always be penalized.
+
+
+
+Scenario C4.1.2.DAs White Jammer advances, Red Blocker is knocked off balance and into White Jammer’s path, bending over and positionally placing their head in front of White Jammer. White Jammer comes to a complete stop to avoid contact with Red Blocker’s head.
+Outcome: No penalty.
+Rationale: Though White Jammer lost significant momentum as a result of Red Blocker’s positional block with an Illegal Blocking Zone (head), unintentional positional blocking with the head does not warrant a penalty.
+Keep in Mind: If Red Blocker had intentionally presented their head in order to slow White Jammer’s momentum, or continued to use the threat of harm to their own head as a barrier, Red Blocker should be penalized for unsafe and unsporting conduct.
+
+
+
+Scenario C4.1.2.EWhite Blocker is knocked off balance and grabs hold of Red Blocker’s jersey in an attempt to regain their balance. Red Blocker remains standing, but is significantly slowed by the pulling at their jersey. White Blocker regains their balance.
+Outcome: White Blocker is penalized.
+Rationale: Assists taken from an opponent, such as whips or braces, are penalizable if they result in some kind of advantage for the initiator or disadvantage for the opponent.
+White Blocker significantly slowed Red Blocker by using an Illegal Blocking Zone.
+
+
+
+Scenario C4.1.2.FWhite Pivot attempts to join the other White Blockers but is held back by a wall of Red Blockers. White Pivot wiggles past Red Blocker on the outside line, using their forearms on those Red Blockers to hold themself in bounds.
+Outcome: White Pivot is penalized.
+Rationale: White Pivot gained superior position to Red Blocker by using their forearms to remain in bounds during an action that would have otherwise taken them out of bounds.
+
+
+
+Scenario C4.1.2.GRed Jammer has passed all but the foremost White Blocker. White Blocker faces clockwise with their arms outstretched and initiates a block against Red Jammer with the entirety of their arm: upper arm, elbow, and forearm. Red Jammer is not knocked down, but they are brought to a stop.
+Outcome: White Blocker is penalized.
+Rationale: Though Red Jammer did not lose position, their progress was significantly impeded by Illegal Blocking Zones.
+Keep in Mind: If White Blocker had dropped their forearm and elbow as soon as contact was made, no penalty should be called. It was the prolonged impact of the forearm and elbow that made the action penalizable.
+
+
+
+Scenario C4.1.2.HRed Jammer enters the rear of the pack and is blocked towards the outside line by White Pivot. Red Jammer is knocked off-balance and grabs onto White Pivot’s jersey, which prevents Red Jammer from stepping out of bounds. Red Jammer regains their balance in-bounds, without gaining relative position. White Pivot remains stable and unimpeded.
+Outcome: Red Jammer is penalized.
+Rationale: Red Jammer used their forearms to maintain an in-bounds position that they otherwise would not have been able to maintain.
+
+
+
+Scenario C4.1.2.IRed Pivot loses their balance due to a teammate’s action and grabs onto White Blocker’s arm - which prevents Red Pivot from falling down.
+Outcome: Red Pivot is penalized.
+Rationale: Red Pivot used their forearms to maintain an upright position that they otherwise would not have been able to maintain.
+Keep in Mind: If White Blocker had grabbed onto and stabilized Red Pivot, preventing Red Pivot from falling - no penalty would be warranted.
+
+
+
+4.1.3. Other Illegal Contact¶
+
+Initiating a block is legal when a Skater is moving counterclockwise, in play, upright, and in bounds during a Jam using Legal Contact Zones.
+—Origin: Section 4.1.3
+
+
+
+Scenario C4.1.3.AWhite Pivot stands still on their toe stops and initiates a block against Red Jammer. Red Jammer counter-blocks, but is brought to a stop by the White Pivot, who remains stopped.
+Outcome: White Pivot is penalized.
+Rationale: If Red Jammer loses position or has their momentum or trajectory severely affected by a block initiated in an illegal way, the initiator should receive a penalty. In this example, if White Pivot had not maintained their stopped position, but had returned to counterclockwise motion while blocking, no penalty would be warranted.
+Keep in Mind: It is not the use of toe stops that warrants penalization in this scenario, but the fact that the White Pivot had an impact on the Red Jammer while stopped.  If White Pivot had continued to move counter-clockwise on the track while on their toe stops, no penalty would have been warranted.
+
+
+
+Scenario C4.1.3.BRed Blocker uses a Legal Blocking Zone to initiate a block to a Legal Target Zone of White Blocker. White Blocker is pushed until one skate is in bounds and one skate is out of bounds. Red Blocker continues to block until White Blocker is fully out of bounds. Red Blocker re-initiates a new block that knocks White Blocker down.
+Outcome: Red Blocker is penalized.
+Rationale: A Skater should not expect to be blocked while out of bounds.
+It is only legal to block a Skater who is in bounds or straddling.
+The secondary block is what warrants the penalty.
+
+
+
+Scenario C4.1.3.CRed Blocker is knocked out of bounds and recycled to the rear of the Pack. They accelerate and move in bounds, directly into White Blocker, who falls.
+Outcome: Red Blocker is penalized.
+Rationale: Even if the Target and Blocking Zones were legal and both Skaters were in bounds, Red Blocker gained an unexpected advantage by accelerating while out of bounds into the block. White Blocker should not expect to be blocked by an out-of-bounds opponent.
+
+
+
+Scenario C4.1.3.DRed Blocker is knocked out of bounds by White Blocker, who also goes out of bounds, leaving an opening on the inside line.
+The out-of-bounds Red Blocker grabs the in-bounds Red Jammer by the hips and pushes them past the in-bounds White Blockers.
+Outcome: Red Blocker is penalized.
+Rationale: The threshold for penalization of assists follows similar metrics to blocks.
+They cannot come from an unblockable position, such as out of bounds, while down, or while stopped.
+Because Red Blocker could not legally be blocked, it would also be illegal to provide an assist.
+
+
+
+Scenario C4.1.3.EWhite Jammer, having lined up just behind the Jammer Line, is contacted by Red Jammer attempting to take the same space. White Jammer falls out of bounds before the Jam-Starting Whistle.
+Outcome: Red Jammer is penalized for blocking before the Jam start. White Jammer is allowed to participate in this Jam. Red Jammer has lost the ability to earn Lead Jammer status in this Jam.
+Rationale: It is illegal to block before a Jam has begun. Because White Jammer was not in a legal starting position due to an opponent’s illegal action, they are allowed to participate in the Jam.
+Keep in Mind: Should White Jammer be blocked into a false starting position rather than out of bounds, White Jammer is allowed to participate in the Jam (without the need to yield). Red Jammer would still receive a penalty for blocking before the Jam start.
+Keep in Mind: A Skater penalized before the start of a Jam should serve their penalty in the position in which they appear to be acting.
+
+
+
+Scenario C4.1.3.FWhite Blocker initiates contact to Red Jammer during the Jam-Ending Whistle. Red Jammer stumbles significantly off balance after the Jam-Ending Whistle.
+Outcome: White Blocker initiated legally before the end of the Jam. No penalty.
+Rationale: It is illegal to block after a Jam has ended. It is, however, legal to initiate during the Jam-Ending Whistle, even if the outcome happens once the Jam has ended.
+Keep in Mind: Should that same hit start after the Jam-Ending Whistle, Red Jammer need not fall nor be knocked out of bounds. Being hit significantly off balance after the Jam-Ending Whistle is sufficient to penalize the initiator of that hit.
+Keep in Mind: A Skater penalized after the end of the Jam should serve their penalty in the position in which they appear to be acting.
+
+
+
+Scenario C4.1.3.GRed Jammer is 18 ft (5.48 m) ahead of the Pack alongside White Pivot. They continue to skate, and an Official gives an Out of Play warning to both players. White Pivot continues to skate alongside Red Jammer, and then blocks Red Jammer, making hip-to-hip contact. Red Jammer counter-blocks White Pivot in an attempt to remain upright and continue on their way. White Pivot falls as a result.
+Outcome: White Pivot is penalized. Red Jammer is not.
+Rationale: White Pivot received an Out of Play warning and failed to immediately attempt to return to the Engagement Zone; rather, they continued to block Red Jammer. Skaters who are illegally blocked while out of play may legally counter-block, so Red Jammer’s actions do not warrant a penalty.
+Keep in Mind: If Red Jammer’s action was not a counter-block, but instead a separate and distinct initiation of a block, Red Jammer should be penalized as White Pivot falling is enough impact to warrant a penalty for illegal contact.
+
+
+
+Scenario C4.1.3.HRed Jammer is 18 ft (5.48 m) ahead of the pack.  White Pivot is alongside Red Jammer. They skate forward, and an Official gives an Out of Play warning to both players. After the warning is given, White Pivot initiates a block to Red Jammer. Red Jammer counter-blocks and is able to maintain their upright status and their momentum.  Red Jammer then actively continues blocking White Pivot until White Pivot is Out of Bounds.
+Outcome: Both players are penalized.
+Rationale: Both players received an Out of Play warning.  White Pivot illegally failed to immediately attempt to return to the engagement zone. Skaters who are illegally blocked while Out of Play may legally counter-block, so Red Jammer’s initial counter-block does not warrant a penalty.
+Red Jammer’s continued blocking after absorbing the impact of White Pivot’s block should be considered a new block.  While Jammers are never considered Out of Play, blocking an Out of Play skater is illegal for all Skaters.  By significantly altering White Pivot’s trajectory, Red Jammer’s illegal block had sufficient impact to warrant a penalty.
+Keep In Mind: Initiating a block after an Out of Play warning is, by definition, failing to attempt to return to the engagement zone.  As such, White Pivot should be penalized for maintaining an illegal position regardless of the impact of their block on the Red Jammer.
+
+
+
+Scenario C4.1.3.IWhite Blocker is standing while legally out of bounds.  A Red Blocker is blocked off the track and collides with the White Blocker.  White Blocker moves toward the Red Blocker and brings up their arms to actively absorb the force of the contact and protect both Skaters. Red Blocker falls to the ground as a result of the contact.
+Outcome: No penalty.
+Rationale: While White Blocker moved towards the opposing block, the purpose of the action was to actively absorb the contact, rather than intentionally force the Red Blocker down.  The White Blocker’s action was taken in the interest of safety, and should not be penalized. The preservation of player safety supersedes any gameplay concern not already enumerated in the Rules.
+
+
+
+Scenario C4.1.3.JWhite Pivot is currently the only white Blocker in the Pack. White Jammer approaches White Pivot and initiates an assist off White Pivot, which abruptly reduces White Pivot’s speed enough to cause them to fall back more than 10 ft. (3 meters).
+Outcome: Officials declare a No Pack situation. No penalty.
+Rationale: The destruction of the Pack occurred as a result of normal gameplay. It should not be considered an illegal Pack destruction.
+Keep in Mind: Taking or giving assists are considered parts of normal gameplay. If the White Jammer instead pushed White Pivot out of bounds or to the ground, White Jammer should be penalized instead. This action is considered a deliberate destruction of the Pack, and the White Jammer should be issued a penalty for Unsporting Conduct (Misconduct).
+
+
+
+4.1.4. Multiplayer Blocks¶
+
+Skaters may not form a wall by linking with or grasping a teammate, or otherwise forming an impenetrable connection.
+—Origin: Section 4.1.4
+
+
+
+Scenario C4.1.4.ARed Blockers form a three-person wall, separating White Pivot from the other White Blockers. The middle Red Blocker hooks arms with the outside Red Blocker. White Pivot initiates a block against the middle and outside Red Blockers, attempting to drive between the two Skaters, but fails to make any progress. All Blockers remain upright.
+Outcome: The middle Red Blocker was most responsible for hooking arms and should receive a penalty.
+Rationale: The middle and outside Red Blockers gained an advantage by creating a link that White Pivot cannot break. Once White Pivot challenged that link, their action became worthy of a penalty.
+Keep in Mind: If it cannot be determined who initiated the link, then the Skater closest to the Referee calling the penalty should be penalized.
+Keep in Mind: If the middle Red Blocker had also been hooked to the inside Red Blocker, no additional penalty would be warranted because White Pivot did not attempt to get between those two linked opponents.
+
+
+
+
+4.2. Game Structure Penalties¶
+
+4.2.1. Illegal Positioning¶
+
+When a Pack cannot be defined, all Blockers are unable to block.
+—Origin: Section 4.2.1
+
+
+
+Scenario C4.2.1.ARed Pivot is the only Red Blocker on track. White Pivot forces Red Pivot out of bounds.
+Outcome: Officials declare a No Pack situation. No penalty.
+Rationale: The destruction of the Pack occurred as a result of normal gameplay. It should not be considered an illegal Pack destruction.
+
+
+
+Scenario C4.2.1.BRed Pivot is the only Red Blocker on the track. Red Pivot attempts to block White Jammer as they pass. Red Pivot misses, and ends up out of bounds.
+Outcome: Officials declare a No Pack situation. No penalty.
+Rationale: The destruction of the Pack occurred as a result of normal gameplay. It should not be considered an illegal Pack destruction.
+
+
+
+Scenario C4.2.1.CRed Pivot is the only Red Blocker on the track. Red Pivot intentionally skates out of bounds.
+Outcome: Officials declare a No Pack situation. Red Pivot is instructed to remain on the track, and is penalized.
+Rationale: Red Pivot’s illegal action (stepping out of bounds) destroyed the Pack. Red Pivot is the final remaining Red Blocker, and must remain on the track so that a Pack can be formed.
+
+
+
+Scenario C4.2.1.DRed Pivot is the only Red Blocker on the track, and is being blocked by White Pivot and White Blocker. White Pivot forces Red Pivot out of bounds, and Officials declare a No Pack situation. White Pivot and White Blocker immediately skate ahead of Red Pivot, who is now behind all other Blockers. Red Pivot still does not return to the track.  As a result, the Pack is unable to be reformed.
+Outcome: Red Pivot is penalized and instructed to return to and remain on the track until another Red Blocker returns to the Pack.
+Rationale: Red Pivot was able to legally reenter the track once all other Blockers were ahead of them.
+Red Pivot is not required to return to the track until they can legally do so, and is not required to skate clockwise in order to find a legal reentry point.
+In this scenario, however, Red Pivot had a legal opportunity because all other Blockers were ahead of them. Further, Red Pivot did not heed the warning from the Officials, and thus should be penalized for preventing a Pack from reforming.
+As Red Pivot is the final remaining Red Blocker, they must remain on the track so that a Pack can be formed.
+Keep in Mind: If White Pivot or White Blocker had not skated forward, one or both of them would have been penalized instead of Red Pivot for preventing a Pack from reforming by forcing the only opposing Blocker to remain out of bounds.
+
+
+
+Scenario C4.2.1.ERed Pivot is skating 9 ft (2.74 m) behind the White Blockers and 9 ft (2.74 m) ahead of the other Red Blockers. Their knee pad slips down their leg, and is no longer protecting their knee. Red Pivot takes themself off the track in order to adjust their equipment, creating a No Pack situation.
+Outcome: Officials declare a No Pack situation. No penalty.
+Rationale: Although Red Pivot’s actions directly caused a No Pack situation, it was in order to resolve a safety issue. Skaters should not be penalized for rectifying a safety issue.
+
+
+
+Scenario C4.2.1.FWhite Jammer removes their helmet cover and attempts to hand it to White Pivot. During this process, the Star falls, touching out of bounds. White Jammer leaves the track to retrieve the helmet cover.
+Outcome: No penalty.
+Rationale: The Jammer and the Pivot may leave the track of their own accord to retrieve a helmet cover that has fallen at least partially out of bounds. Not allowing them to do so would leave them unable to recover the helmet cover.
+
+
+
+Scenario C4.2.1.GWhite Jammer attempts an apex jump and fails to land in bounds. They land fully out of bounds, enter behind all Blockers, and continue to skate.
+Outcome: No penalty.
+Rationale: White Jammer did not intend to remove themself from gameplay.
+Keep in Mind: Should White Jammer successfully make the apex jump but still remove themself due to the belief that they did not complete it successfully, no penalty would be applicable.
+
+
+
+Scenario C4.2.1.HWhite Jammer is calling off the Jam. They skate out of bounds during the Jam-Ending Whistle.
+Outcome: No penalty.
+Rationale: Skating out of bounds during the four whistles of a Jam call-off does not allow a Skater to score additional points nor gain meaningful advantage over any other Skater.
+
+
+
+Scenario C4.2.1.IImmediately after the Jam-Starting Whistle, all Red Blockers remain stationary.
+All White Blockers skate counterclockwise, resulting in more than 10 ft (3.05 m) between any White Blocker and Red Blocker.
+Outcome: Officials declare a No Pack situation. No penalty. Officials assess penalties for failing to reform a Pack, as warranted.
+Rationale: Destroying the Pack penalties are issued when Skaters illegally create a No Pack situation. For a penalty to be issued, one team or Skater must be clearly at fault for the Pack’s destruction. Usually, this will be the team or Skater who changes their speed from the established speed of the Pack. In this scenario, neither team’s speed has changed: Red team remained stationary, while White team skated counterclockwise when the Jam started. As there has been no speed change, neither team is clearly at fault for the Pack’s destruction. No penalty is warranted.
+Keep in Mind: Had White skated clockwise at the start of the jam and caused a No Pack, a penalty for destroying the pack should be issued, as destroying the pack by skating clockwise is illegal when there is no established pack speed.
+
+
+
+Scenario C4.2.1.JWhite Blockers form a four-person wall, blocking Red Jammer at the rear of the Pack when “No Pack” is declared. One White Blocker skates forward to reform the Pack but does not do so for several seconds. The remaining three White Blockers continue to actively block Red Jammer before the Pack is declared reformed.
+Outcome: One of the White Blockers who was actively blocking Red Jammer should be penalized.
+Rationale: All Blockers are obligated to attempt to reform the Pack, not just those who choose to do so. Continued blocking during a No Pack situation is considered a failure to attempt to reform the Pack.
+Keep in Mind: If the Pack had been reformed immediately, no penalty should be issued.
+Keep in Mind: If all the White Blockers had been accelerating in an attempt to reform the Pack, no penalty should be issued, even if they did so while maintaining their wall and holding Red Jammer back.
+
+
+
+Scenario C4.2.1.KRed Jammer passes all members of the Pack except for White Pivot, who forces Red Jammer out of bounds to the outside of the track.
+While Red Jammer is out of bounds, the Pack skates counterclockwise ahead of Red Jammer.
+Red Jammer takes several strides while out of bounds, counterclockwise, to maintain their position ahead of the Pack and behind White Pivot, before returning in bounds.
+Outcome: Red Jammer is penalized.
+Rationale: Skaters are not allowed to accelerate or maintain speed while out of bounds, unless they are doing so to hasten their return to the track or entry to the Penalty Box.
+Keep in Mind: Accelerating or maintaining speed while out of bounds in the clockwise direction should not be penalized, as it does not allow the out-of-bounds Skater to maintain their position relative to in-bounds Skaters.
+
+
+
+Scenario C4.2.1.LRed Blocker is serving a penalty in the Penalty Box.
+Once their time completes, they are informed by the Penalty Box Official with the proper verbal cue, but Red Blocker remains within the designated Penalty Box area.
+The Penalty Box Official notices and warns Red Blocker to return to play.
+Red Blocker acknowledges the warning but remains in the Penalty Box area.
+Outcome: Red Blocker is penalized.
+Rationale: By remaining in the Penalty Box beyond their allotted penalty time, a Skater maintains an unblockable position.
+The Skater’s maintained position also interferes with normal Penalty Box operation (see Scenario C4.2.4.F).
+Keep in Mind: If a Skater has been warned multiple times within the course of a game but returns to play after each warning, the Skater should receive a penalty.
+By repeatedly requiring a warning for the same action, the Skater is continually interfering with normal Penalty Box operation.
+Keep in Mind: Skaters who maintain their position in or near the Penalty Box momentarily due to safety reasons (for example, waiting for an Outside Pack Referee to pass) before they return to play should not be warned or penalized.
+
+
+
+Scenario C4.2.1.MWhite Blockers form a four-person wall blocking Red Jammer at the front of the Pack when “No Pack” is declared.
+White Blockers continue to engage the Red Jammer and make no attempt to reform the Pack.
+Red Blockers in the rear of the Pack remain stationary for several seconds until one of the Red Blockers skates forward to reform the Pack.
+Outcome: One White Blocker and one Red Blocker should be penalized.
+Rationale: All Blockers are obligated to attempt to reform the Pack, not just those who choose to do so.
+Keep in Mind: Even if multiple blockers fail to reform the Pack, only one blocker per team should be penalized, as it is the team’s responsibility to maintain a Pack.
+Keep in Mind: Both teams should be penalized again if the Pack continues to remain undefined.
+
+
+
+4.2.2. Gaining Position¶
+
+It is illegal for a Skater to use the out-of-bounds area to gain position on someone who is upright and in bounds.
+If a Skater is put out of bounds due to an opponent’s block, the Skater must return in bounds behind that opponent, even if the Skater was in front of the opponent before being blocked.
+—Origin: Section 4.2.2
+
+
+
+Scenario C4.2.2.AWhite Pivot and White Blocker are ahead of Red Pivot.
+Red Pivot is forced out of bounds by White Pivot.
+White Blocker skates clockwise behind both Skaters.
+Red Pivot reenters the track behind White Pivot and ahead of White Blocker.
+Outcome: Red Pivot is penalized.
+Rationale: White Blocker had superior position when Red Pivot went out of bounds.
+Red Pivot is required to reenter behind both White Pivot and White Blocker.
+
+
+
+Scenario C4.2.2.BWhite Pivot and White Blocker are ahead of Red Pivot when “No Pack” is declared.
+Red Pivot is forced out of bounds by White Pivot.
+White Blocker skates clockwise behind both Skaters.
+Red Pivot reenters the track behind White Pivot and ahead of White Blocker.
+Outcome: White Pivot and Red Pivot are both penalized.
+Rationale: White Pivot is penalized because they executed a block while out of play (due to the No Pack situation).
+Accordingly, Red Pivot was not required to reenter behind White Pivot.
+Even though there is no Pack, White Blocker had superior position when Red Pivot went out of bounds.
+Red Pivot must enter behind White Blocker.
+Keep in Mind: If White Blocker were more than 20 ft (6.10 m) from the last defined Pack, Red Pivot should not be penalized.
+
+
+
+Scenario C4.2.2.CWhite Pivot and White Blocker are ahead of Red Pivot.
+White Pivot forces Red Pivot out of bounds.
+White Blocker skates clockwise behind both Skaters.
+White Blocker loses their balance, takes a knee, and returns upright.
+Red Pivot reenters the track behind White Pivot and ahead of White Blocker.
+Outcome: Red Pivot is penalized.
+Rationale: Although White Blocker lost their superior position briefly while down, they returned upright before Red Pivot reentered.
+White Blocker was not the initiator of the block that forced Red Pivot out of bounds, and thus is able to reestablish their superior position.
+
+
+
+Scenario C4.2.2.DRed Blocker blocks White Jammer out of bounds to the outside just as White Blocker blocks Red Jammer out of bounds to the inside. Both Blockers were ahead of both Jammers before the blocks, and race clockwise to pull their opposing Jammers to the rear of the Pack. White Jammer returns behind all opponents, but Red Jammer returns behind White Blocker but ahead of Red Blocker.
+Outcome: No penalty.
+Rationale: Cutting a single teammate does not have enough impact to warrant a penalty.
+Keep in Mind: Cutting more than one teammate should be penalized.
+Keep in Mind: The same metrics should be applied when a Skater is returning to play from the Penalty Box.
+
+
+
+Scenario C4.2.2.ERed Pivot is forced out of bounds by White Pivot. White Blocker, who is behind both Pivots, skates counterclockwise past both Pivots, and then clockwise to their previous position. Red Pivot reenters the track behind White Pivot and ahead of White Blocker.
+Outcome: No penalty.
+Rationale: When Red Pivot went out of bounds, White Blocker did not have superior position.
+Red Pivot is only required to reenter behind White Pivot.
+
+
+
+Scenario C4.2.2.FWhite Pivot is in bounds but down.
+Red Pivot dodges White Pivot, ending up out of bounds.
+White Pivot returns to an upright position.
+Red Pivot reenters the track ahead of White Pivot.
+Outcome: No penalty.
+Rationale: Downed Skaters do not have superior position to out-of-bounds Skaters.
+
+
+
+Scenario C4.2.2.GWhite Pivot and White Blocker are ahead of Red Pivot.
+White Blocker forces Red Pivot out of bounds illegally and receives a penalty.
+As White Blocker leaves the track, they accidentally clip the skates of their teammate, White Pivot, who falls.
+Red Pivot reenters the track ahead of both Skaters.
+Outcome: No penalty.
+Rationale: White Pivot was down when Red Pivot reentered the track, and did not have superior position.
+
+
+
+Scenario C4.2.2.HWhite Pivot, White Blocker, and Red Jammer are 18 ft (5.48 m) ahead of a stopped Pack.
+Red Jammer is blocked out of bounds by White Pivot.
+White Pivot and White Blocker roll forward, and both are given an Out of Play warning.
+White Pivot and White Blocker skate clockwise back to the Pack.
+Red Jammer reenters the track ahead of both Skaters.
+Outcome: Red Jammer is penalized.
+Rationale: White Pivot, as initiator of the block, lost their superior position on Red Jammer by leaving the Engagement Zone.
+Although White Blocker lost their superior position briefly by going out of play, they regained it by returning to the Engagement Zone before Red Jammer reentered.
+White Blocker was not the initiator of the block that forced Red Jammer out of bounds, and thus is able to reestablish their superior position.
+
+
+
+Scenario C4.2.2.IWhite Pivot, White Blocker, and Red Jammer are 18 ft (5.48 m) ahead of a stopped Pack.
+White Blocker skates forward and is given an Out of Play warning as White Pivot blocks Red Jammer out of bounds. White Blocker skates clockwise back to the Pack.
+Red Jammer reenters the track ahead of White Blocker and behind White Pivot.
+Outcome: No penalty.
+Rationale: White Blocker was out of play when Red Jammer went out of bounds, and thus did not have superior position.
+
+
+
+Scenario C4.2.2.JRed Pivot blocks White Jammer to the inside and forward, across the apex. White Jammer returns fully in bounds with both skates for a moment, and then immediately leaves the track.
+Outcome: No penalty.
+Rationale: White Jammer did not meaningfully gain position on anybody because they immediately left the track.
+Keep in Mind: If White Jammer had not immediately left the track, they should be penalized.
+
+
+
+Scenario C4.2.2.KRed Jammer is on their second trip through the Pack, having passed no White Blockers.
+Before Red Jammer can pass any opponent, White Pivot forces Red Jammer out of bounds across the apex.
+Red Jammer, while down, slides back in behind White Pivot.
+White Blocker skates clockwise behind Red Jammer.
+Red Jammer stands, completely in bounds and starts skating forward.
+Outcome: Red Jammer is penalized.
+Rationale: Skaters cannot reestablish their position on the track while down.
+Despite being completely in bounds, the downed Red Jammer did not reestablish their in bounds position until they were upright and not immediately exiting the track.
+White Blocker had superior position to Red Jammer when Red Jammer left the track, so Red Jammer cannot gain superior position due to their out of bounds status.
+
+
+
+Scenario C4.2.2.LImmediately after the Jam start, White Jammer blocks Red Jammer out of bounds. The Pack remains stopped while White Jammer skates clockwise around the track. Red Jammer remains out of bounds. White Jammer approaches the front of the Pack and legally passes the Star to White Pivot. Red Jammer re-enters the track behind the Pack, and ahead of both the new and former White Jammers.
+Outcome: No penalty.
+Rationale: When out of bounds, Skaters must reenter the track without improving their position relative to other Skaters.
+Because the new White Jammer did not earn position on Red Jammer, Red Jammer did not need to reenter behind the new White Jammer.
+The former White Jammer, becoming a Blocker, is considered to be far ahead of Red Jammer (like all the other Blockers).
+
+
+
+Scenario C4.2.2.MRed Jammer passes all members of the Pack except for White Pivot, who forces Red Jammer out of bounds on the inside of the track.
+While Red Jammer is out of bounds, White Pivot skates clockwise behind the stopped Pack and past Red Jammer.
+Red Jammer takes several skating strides while out of bounds, counterclockwise, but reenters the track ahead of the Engagement Zone.
+Outcome: No penalty.
+Rationale: When out of bounds to the inside of the track, Skaters may skate in any direction to return to the track. By re-entering the track ahead of the Engagement Zone, rather than being penalized, Red Jammer is considered to be entering to the rear of the Engagement Zone, behind the Pack and White Pivot.
+
+
+
+4.2.3. Interfering with the Flow of the Game¶
+
+All efforts should be made by teams and Officials to ensure that the period clock runs according to the rules of the game, and that Jams start and end as specified in the rules.
+—Origin: Section 4.2.3
+
+
+
+Scenario C4.2.3.AWhite Pivot is issued a penalty, leaves the track, and reports to the Penalty Box. The Penalty Box is full at this time, and White Pivot is waved back onto the track. Just as White Pivot returns to the Pack, the Jam is called off. White Pivot returns to their team bench.
+Outcome: Officials should attempt to warn White Pivot that White Pivot is in queue for a penalty. If they are not successful, when 30 seconds have passed since the end of the previous Jam, Officials must call an Official Timeout instead of starting the next Jam. White Pivot should be penalized.
+Rationale: White Pivot is in queue to serve their penalty, and must be on the track so they can serve their penalty during the next Jam.
+
+
+
+Scenario C4.2.3.BOfficials give Skaters a five-second warning before the start of the next Jam. White team finishes their discussion, and five White Skaters approach the track. All are out of bounds or straddling as the lineup time expires.
+Outcome: Instead of starting the next Jam, at that moment, the Officials must call an Official Timeout. White Captain is penalized.
+Rationale: White team’s failure to field any Skaters in correct position prevented the Jam from starting in a timely manner, thus stopping the period clock illegally.
+
+
+
+Scenario C4.2.3.COfficials give Skaters a five-second warning before the start of the next Jam. White team finishes their discussion, and five White Skaters approach the track. All are in bounds, but ahead of the Pivot Line as the lineup time expires.
+Outcome: Instead of starting the next Jam, at that moment, the Officials must call an Official Timeout instead of starting the next Jam. White Captain is penalized.
+Rationale: White team’s failure to field any Blockers in the correct position prevented the Jam from starting in a timely manner.
+
+
+
+Scenario C4.2.3.DAs the lineup time expires, White team has four Blockers correctly positioned, but White Jammer is still out of bounds.
+Outcome: Instead of starting the next Jam, at that moment, the Officials must call an Official Timeout. White Captain is penalized.
+Rationale: White team’s failure to field a Jammer in the correct position prevented the Jam from starting in a timely manner.
+Keep in Mind: If Red Jammer had also been out of bounds, both Captains would have received a penalty for preventing the Jam from starting in a timely manner.
+Keep in Mind: If a White Skater had been correctly positioned as a Jammer but did not possess a visible Star, they are not the Jammer.
+Assuming the White team does not have a Jammer serving a penalty, White’s team’s Captain would receive a penalty for preventing the Jam from starting in a timely fashion.
+
+
+
+Scenario C4.2.3.EWhite team has used three Team Timeouts during the game. White Captain calls for a Team Timeout. Officials, mistakenly believing that White team has timeouts remaining, grants the request.
+Outcome: If White team has an Official Review remaining, they should be considered to have used it as a timeout. If not, White Captain is penalized and the next Jam is started as soon as possible, but at least 30 seconds after the end of the previous Jam.
+Rationale: White Captain’s successful, but illegal attempt to stop the period clock prevented the next Jam from starting in a timely manner. If White Captain had legal means to prevent the Jam from starting, legal means should be assumed.
+Keep in Mind: Officials should deny requests for a Team Timeout if that team has none remaining. No penalty is warranted if an invalid request for a Team Timeout is denied.
+
+
+
+Scenario C4.2.3.FJam 23 is called off for an injury sustained by White Pivot. The same Skater lines up on the track for the start of Jam 26.
+Outcome: Officials should attempt to communicate to the White Skater that they are not allowed to participate. If the Officials fail, when 30 seconds have passed since the end of the previous Jam, Officials must call an Official Timeout instead of starting the next Jam. White Pivot is returned to their team bench to sit out the remaining Jam, as required. White Captain is penalized.
+Rationale: The White Skater’s failure to sit out the required number of Jams prevented the next Jam from starting in a timely manner. The White Skater cannot serve the penalty at this time for the same reason, so it is issued to their Captain instead.
+Keep in Mind: If Officials believe the White Skater’s injury poses a serious and immediate threat to that Skater or others, Officials should not allow the White Skater to skate no matter how many Jams have elapsed.
+
+
+
+Scenario C4.2.3.GWhite Pivot (who is neither the Captain nor the Designated Alternate) walks up to an Official and requests a Team Timeout. That Official, mistakenly believing White Pivot is the Captain, grants the request.
+Outcome: When the mistake is realized, Officials must call an Official Timeout. White Pivot is penalized. The next Jam is started as soon as possible, but at least 30 seconds after the end of the previous Jam.
+Rationale: White Pivot’s successful, but illegal attempt to stop the period clock prevented the next Jam from starting in a timely manner.
+Keep in Mind: If the illegal requester is not a Skater, the penalty is issued to the Captain instead. Officials should deny requests for a Team Timeout if the requester is neither a Captain nor a Designated Alternate. No penalty is warranted if an invalid request for a Team Timeout is denied.
+
+
+
+Scenario C4.2.3.HWhite Pivot (who is neither the Captain nor the Designated Alternate) uses hand signals to communicate with their Captain, asking for a Team Timeout to be called. Officials, mistaking the White Pivot’s hand signals for a legal request, call a Team Timeout.
+Outcome: When the mistake is realized, Officials must call an Official Timeout. White Pivot is not issued a penalty. White team is not charged for a Team Timeout. The next Jam is started as soon as possible, but at least 30 seconds after the end of the previous Jam. No penalty.
+Rationale: White Pivot was attempting to communicate with their Captain. They were not attempting to request a Team Timeout from the Officials.
+
+
+
+Scenario C4.2.3.IDuring the lineup time, a Red Blocker is seated in the Penalty Box. Red team fields four Blockers on the track. Officials do not notice the extra Blocker, and the next Jam begins. Immediately after the Jam starts an Official notices and instructs a Red Blocker to return to their team bench. The Red Blocker leaves as instructed.
+Outcome: No penalty.
+Rationale: The extra Blocker was removed from gameplay before their presence had any impact on the Jam in progress. If the Skater who was instructed to leave instead remains on the track, the Officials should end the Jam and assess a penalty to the Skater.
+Keep in Mind: If the extra Blocker was not immediately noticed, and therefore had impact on the Jam in progress, the Officials should end the Jam and assess a penalty to the Captain instead.
+Keep in Mind: If an Official notices the extra Blocker before the five-second warning, they should attempt to warn the team that there are too many Skaters on the track before the five-second warning occurs.
+
+
+
+4.2.4. Other Illegal Procedures¶
+
+Skaters who violate the rules of the game should be penalized if the violation has a significant impact on the game.
+—Origin: Section 4.2.4
+
+
+
+Scenario C4.2.4.AWhite Captain is not visibly wearing a “C”. They signal for a Team Timeout to be called.
+Outcome: Officials grant the Team Timeout. White Captain is penalized.
+Rationale: Despite not visibly wearing an “C”, the Captain retains the privilege of calling a Team Timeout.
+Officials should grant this request if they have a Team Timeout remaining; however, exercising a privilege of the Captain while not visibly displaying a “C” warrants a penalty.
+Keep in Mind: This same principle should also be applied to a Designated Alternate not wearing an “A”.
+If the Designated Alternate is not a Skater, the penalty is issued to the Captain.
+
+
+
+Scenario C4.2.4.BWhite Captain calls an Official Review.
+Officials grant the request.
+Red Designated Alternate, while not visibly displaying an “A,” conferences with the Head Referee during the Official Review.
+Outcome: No penalty.
+Rationale: Red Designated Alternate’s failure to visibly display an “A” while conferencing for an Official Review does not meaningfully affect the game, nor warrant a penalty.
+
+
+
+Scenario C4.2.4.CWhile seated in the Penalty Box, White Blocker removes their mouthguard. They are instructed to stand by a Penalty Box Official and they do so without putting their mouthguard back into their mouth. White Blocker skates to the corner of the Box and is instructed that their penalty is done. They put their mouthguard back into their mouth and return to play.
+Outcome: No penalty.
+Rationale: Players are allowed to have their mouthguard out while in the Box, regardless of whether they are standing or sitting.
+Keep in Mind: If White Blocker leaves the Box without putting their mouthguard back in, even if they put it back in before they return in bounds, this should result in a penalty.
+
+
+
+Scenario C4.2.4.DRed Jammer arrives at the Penalty Box for a penalty, sits, is told to stand 20 seconds later, and stands.
+They then watch the scoreboard count down 10 seconds, and leave the Box without being told to do so by an Official.
+Outcome: Red Jammer should be penalized if they left the Box even a fraction of a second early.
+Rationale: If Red Jammer’s time had completed and they had not been released, this would be an officiating error and Red Jammer should not be punished for it. However, leaving the Box early without good reason should always be penalized.
+Keep in Mind: If an Official had told the Red Jammer their time was up, Red Jammer had good reason to leave the Box early.
+
+
+
+Scenario C4.2.4.EWhite Blocker is seated in the Penalty Box and asks someone on the bench to toss them their water bottle. A teammate on the bench throws a full bottle of water at White Blocker, who catches it just before it strikes a Penalty Box Official in the face.
+Outcome: Whoever threw the water bottle should be penalized. If Team Staff threw the bottle, the team’s Captain should be penalized. Officials should warn the White team that throwing things around is dangerous. On a future offense, the thrower of the water bottle should be expelled.
+Rationale: This action is unsafe and thus inappropriate.
+Keep in Mind: If the water bottle had hit the Official forcibly and unexpectedly, the thrower should be expelled on the first offense.
+
+
+
+Scenario C4.2.4.FWhite Blocker, who is seated in the Penalty Box serving a penalty, is talking with their Captain, who is hovering near the Penalty Box boundary. While communicating, said Captain shifts their weight and one skate rolls over the Penalty Box boundary line and back.
+Outcome: No penalty.
+Rationale: While the Captain is not allowed to enter the Box, this entry was brief and the Captain did not enter fully. Partial entry to the Box is not penalized.
+Keep in Mind: If the Captain (or any unpenalized Skater/Team Staff) fully enters the Box and communicates with a penalized Skater or interferes with normal Penalty Box operation, they should be assessed a penalty.
+Keep in Mind: If the Captain (or any unpenalized Skater/Team Staff) had passed through the Box, without interacting with their penalized teammate or interrupting the operation of the Box, no penalty should be assessed even if the Captain (or Skater/Team Staff) had fully entered the Box.
+
+
+
+Scenario C4.2.4.GDuring the jam, an official notices a mouthguard on the track. No Skater is making an immediate attempt to retrieve the mouthguard.
+Outcome: The jam is immediately called off.  An Illegal Procedure penalty is assessed to the Skater without a mouthguard.
+Rationale: A mouthguard is required safety equipment for all Skaters. If a skater is completely missing a required piece of safety equipment, unless it is immediately replaced, the jam should be called and the skater penalized.
+Keep in Mind: If the mouthguard was not removed intentionally, and a Skater immediately retrieves and replaces the mouthguard before the officials call off the jam, play may continue without a penalty. If the mouthguard is not immediately retrieved, officials should call off the jam and issue the penalty.
+
+
+
+
+4.3. Penalties for Unsporting Conduct (Misconduct)¶
+
+Unsporting conduct can take many forms. Examples include deceiving or ignoring Officials, engaging in dangerous and illegal actions that pose a real danger to oneself or another, or being abusive toward another person; other unsporting conduct may also be penalized.
+—Origin: Section 4.3
+
+
+
+Scenario C4.3.ARed Jammer and White Blocker are in the Penalty Box. Red Jammer stands. After seven seconds, White Blocker suddenly says “Red, [number], done.” Red Jammer, assuming they have been legally released by an Official, exits the Box and begins to return to the track.
+Outcome: White Blocker is penalized. Red Jammer is not. Officials should direct Red Jammer to return to the Box and complete their remaining penalty time.
+Rationale: White Blocker has imitated an Official’s verbal instruction to try to force a penalty on the opposing Jammer, which is highly unsporting and is penalized as such. Red Jammer left in good faith believing they had been released by the Officials. They should still serve the remainder of their original penalty time.
+
+
+
+Scenario C4.3.BRed Blocker knocks down White Blocker. Red Blocker bends over at the waist, positioning their chest above White Blocker in such a way as to prevent White Blocker from standing.
+Outcome: Red Blocker is penalized.
+Rationale: Though most positional blocks don’t typically result in a penalty, in this instance, Red Blocker intentionally positionally blocks a downed opponent. White Blocker cannot initiate a block from a downed status and thus cannot reestablish their position without earning a penalty of their own. This is unsporting conduct on the part of Red Blocker.
+
+
+
+Scenario C4.3.CWhite Blocker intentionally pulls off Red Jammer’s helmet cover.
+Outcome: Red Jammer momentarily lost the ability to score or earn Lead Jammer status as a result of White Blocker intentionally removing their Star. White Blocker is expelled from the game.
+Rationale: Deliberately removing an opponent’s helmet cover is unsporting behavior of the highest order. It must be penalized by expulsion, regardless of any impact to the Jammer’s head, though intentional contact to an opponent’s head also warrants expulsion.
+
+
+
+Scenario C4.3.DThe Jam starts and White Jammer quickly earns Lead. Red Jammer immediately pulls off their Star and tries to pass it over their opponents’ heads to Red Pivot, but is unable to do so. Red Jammer stuffs the Star into their jersey so they don’t have to hold it as they work their way through the Pack.
+Outcome: Red Jammer has hidden the Star from their opponents, also hiding the fact that they are their team’s Jammer. Red Jammer is penalized.
+Rationale: It is unsporting to attempt to hide your role in the Jam.
+Keep in Mind: If Red Jammer had held onto the Star instead of hiding it in their jersey, no penalty would be issued because they would still be visibly in control of the Star.
+
+
+
+Scenario C4.3.EHaving been released from the Penalty Box, White Blocker heads back to the track, using a forearm to push a Referee out of the way so they can keep the line.
+Outcome: White Blocker is expelled from the game.
+Rationale: Intentional or negligent contact to Officials is unsporting, as it renders the Official unable to keep their attention on the game. Contact to an Official who does not expect it or to an Official who is not wearing safety equipment is also unsafe.
+Keep in Mind: Skaters and Officials routinely collide during the course of normal gameplay. This is usually unintentional and unavoidable, in which case it should not be penalized.
+
+
+
+Scenario C4.3.FWhite Blocker is assessed a penalty and swears.
+Outcome: Profane, abusive, and obscene language is unsporting and degrading to the sport, but should not always be penalized. If said language was audible to the audience or via broadcast, White Blocker is penalized. If White Blocker’s profanity was directed at an Official, White Blocker is penalized. Otherwise, a few choice words directed at a teammate or opponent should result in a warning and be penalized if the behavior continues.
+Rationale: As a competitive, physical sport, roller derby can raise Skaters’ adrenaline and cause tempers to flare; some discretion is in order. Audible offensive language degrades the sport, and abusive language directed at Officials is disrespectful and insubordinate. Abusive language regarding Officials should be considered to be directed at the Officials as a group, and should be penalized if audible to any Official.
+Keep in Mind: Any language that is profane or obscene should be held to a similar standard.
+Keep in Mind: A Skater who utters a string of profanity or appears to have completely lost their temper should be expelled regardless of whether it is directed at anybody.
+Keep in Mind: Discretion is in order to determine whether the language is degrading to the sport or others. A Skater who is cursing for some reason unrelated to gameplay, such as cursing while crying due to a painful injury, should not necessarily be penalized.
+
+
+
+Scenario C4.3.GRed Blocker is crouched with one hand on the track.
+White Blocker intentionally falls on top of Red Blocker, targeting a Legal Target Zone.
+Outcome: White Blocker is expelled from the game for Misconduct.
+Rationale: Falling onto an opponent is extremely dangerous and is an extraordinary physical threat to Red Blocker.
+Even though White Blocker was attempting to initiate into a Legal Target Zone, intentionally falling onto an opponent is unsporting conduct.
+Keep in Mind: A Skater who is crouched with one hand on the floor does not count as down.
+Keep in Mind: Skaters accidentally falling on each other due to natural gameplay is not unsporting conduct
+
+
+
+Scenario C4.3.HWhite Blocker is standing in a wall alongside their teammates. Red Jammer, while attempting to pass White Blocker, jumps and unintentionally makes contact with their chest into White Blocker’s shoulder. Red Jammer is completely airborne when the contact is made. White Blocker does not fall, but is pushed forward out of the wall.
+Outcome: Red Jammer is penalized.
+Rationale: Initiating a block while airborne is dangerous play.
+White Blocker lost their established position in the wall due to Red Jammer’s illegal contact.
+Keep in Mind: Non-forceful and unintentional contact initiated by an airborne Skater (for example, brushing shoulders during an apex jump) should only be penalized if there is significant impact on the recipient.
+Keep in Mind: Skaters may initiate a block on an airborne opponent, if that opponent was a legal target prior to becoming airborne.
+
+
+
+Scenario C4.3.IWhite Blocker is standing in a wall alongside their teammates. Red Jammer jumps at White Blocker, making forceful contact while airborne. Red Jammer had no reasonable expectation of landing in a legal manner. White Blocker, however, remains upright.
+Outcome: Red Jammer should be considered for expulsion.
+Rationale: Initiating a block while airborne is dangerous play. A flagrant violation of this rule poses a safety hazard to White Blocker. An expulsion would be warranted if the action was judged to be negligent, intentional, or reckless, regardless of whether White Blocker lost position.
+
+
+
+Scenario C4.3.JA Governing Body policy limits the number of bench Staff allowed on the bench. Red team has the maximum allowed support staff on the bench; however, in between Jams, an additional support staff runs into the bench area and communicates with the Designated Alternate.
+Outcome: A penalty for unsporting conduct is issued to the Red Captain, and the extra support staff is removed from the bench.
+Rationale: Both teams agreed to play the game under the Governing Body policy. Violating agreed-upon terms is unsporting and should be penalized.
+Keep in Mind:  Policies may neither change nor override the published rules. In addition, policies also may not directly impact gameplay. Issues that are identified and resolved prior to the beginning of the game should not result in the assessment of penalties.
+
+
+
+Scenario C4.3.KWhite Blocker is in a downed position on the track, directly at the skates of White Pivot.
+Red Blocker initiates contact to White Pivot, causing White Pivot to fall onto and over White Blocker.
+Outcome: Red Blocker is penalized.
+Rationale: It is dangerous to block a Skater onto or over another downed Skater.
+Keep in Mind: If Red Blocker had committed to their block before White Blocker had fallen down, a penalty would not be warranted.
+Keep in Mind: If contact between White Pivot and White Blocker was not directly caused by Red Blocker’s actions (for example, there was a significant distance between White Pivot and White Blocker), a penalty would not be warranted.
+
+
+
+Scenario C4.3.LAn Official overhears a Skater making hateful, prejudiced, and/or bigoted remarks.
+Outcome: The Skater is expelled.
+Rationale: Abusive conduct, including but not limited to making remarks or gestures of a racist / sexist / homophobic / transphobic / ableist nature is degrading to the sport and others.
+Keep in Mind: Some instances of abusive conduct may be contextual and as a result of ignorance. If the Skater was not reasonably aware that their conduct was abusive, a warning or penalty may be appropriate.
+Keep in Mind: Applying in-game penalties for abusive conduct does not prevent event organizers from taking additional actions external-to-gameplay as they deem appropriate. If the abusive conduct was not seen/heard by Officials but instead was reported to Officials (or event organizers), resolution should be handled external-to-gameplay via the event’s procedures.
+
+
+
+Scenario C4.3.MDuring the lineup time, Red team has eight Blockers between the Pivot and Jammer lines, and two Jammers behind the Jammer line. Officials give Skaters a five-second warning, and the extraneous skaters begin to leave the track.
+Outcome: Instead of starting the next Jam, at that moment, the Officials must call an Official Timeout. Red Captain is Penalized.
+Rationale: While fielding an extra skater may happen accidentally (See Scenario 4.2.3.I), intentionally fielding several more Skaters than allowed in the Rules is considered unsporting. The deliberate involvement of these extraneous Skaters (Blockers and/or Jammers) affects the starting positions of the Skaters intending to play in the next Jam.
+Keep in Mind: Other situations which include the deliberate positioning of too many Skaters on or near the track area (such as standing next to the track boundary) during the Lineup time are also considered unsporting.
+
+
+
+4.4. Enforcing Penalties¶
+
+Upon completion of the correct verbal cue and hand signal from an Official, the penalized Skater must immediately leave the track.
+—Origin: Section 4.4
+
+
+
+Scenario C4.4.AWhite Pivot arrives at the Penalty Box between Jams. They call to their coach and signal that they are injured. The coach sends a new Skater to the Box. White Pivot gives the new Skater the Stripe and returns to the bench.
+Outcome: White Pivot’s penalty time is served by the substitute. White Pivot may not skate in the following three Jams.
+Rationale: Skaters may remove themselves from play when injured.
+A substitute may serve penalty time for an injured Skater, but the injured Skater may not participate in the next three Jams and the substituting Skater must fill the same position the injured Skater filled.
+Follow-Up: If White Pivot were not injured but had broken their skate or equipment, and thus could not skate in the upcoming Jam, a substitute would also be allowed. White Pivot would similarly not be allowed to skate during the following three Jams.
+
+
+
+Scenario C4.4.BRed Jammer is skating at the front of the Pack, close to the inside track boundary, when they are assessed a penalty.
+Red Jammer takes themself out of bounds to the inside of the track, and pauses to allow the Pack to skate past them.
+When their path is clear, Red Jammer skates across to the outside of the track, and then continues around toward the Penalty Box.
+Outcome: No additional penalty.
+Rationale: After receiving a penalty, Skaters are required to disengage from play and exit the track to the outside when they have a safe and legal opportunity to do so.
+Red Jammer momentarily entered the infield in order to remove themself from play.
+At the first safe and legal opportunity, they left the track to the outside. No additional penalty is warranted.
+Keep in Mind: Skaters remain liable for additional penalties related to safety and must not interfere with Officials performing their duties.
+
+
+
+Scenario C4.4.CRed Pivot is skating along the straightaway opposite the Pivot and Jammer Lines, close to the inside track boundary.
+They are assessed a penalty and take themself out of bounds to the inside of the track. Red Pivot then skates across the infield and the straightaway with the Pivot and Jammer Lines to enter the Penalty Box.
+Outcome: Red Pivot is assessed an additional penalty.
+Rationale: After receiving a penalty, Skaters are required to exit the track to the outside relative to where that penalty was issued.
+Red Pivot exits the track to the opposite side of where they were initially penalized.
+
+
+
+Scenario C4.4.DRed Pivot is assessed a penalty at the end of the straightaway opposite the Pivot and Jammer Lines, just before the turn.
+They acknowledge the penalty, and skate directly towards the Penalty Box.
+The path they take toward the Penalty Box results in their exiting the track near the Jammer Line.
+Outcome: Red Pivot is assessed an additional penalty.
+Rationale: After receiving a penalty, Skaters are required to exit the track to the outside, relative to where that penalty was issued.
+Red Pivot exits the track a significant distance from where they were initially penalized.
+
+
+4.4.1. Penalty Enforcement for Blockers¶
+
+Skaters serve 30 seconds of Jam time for each penalty assessed to them.
+—Origin: Section 4.4
+
+
+
+Scenario C4.4.1.AWhite Blocker arrives at the Penalty Box and is instructed by a Penalty Box Official to sit in the right-most seat. White Blocker sits in the left-most seat.
+Outcome: The Penalty Box Official should begin timing the penalty then ask White Blocker to move to the preferred seat.
+Rationale: Penalty time begins as soon as the penalized Skater is seated in the Penalty Box. Timing does not stop while they move seats.
+
+
+
+Scenario C4.4.1.BRed Pivot stands in the Penalty Box. The dimensions of the Box are not very deep and their skates already touch the line. Two Red Blockers enter the Box together. Red Pivot attempts to give them room to sit, and in doing so, their skates fully move out of the Penalty Box boundary. They immediately return inside the boundary.
+Outcome: No penalty.
+Rationale: Though Skaters are not allowed to leave the Box early, the mitigating circumstances of this example make the impact to the game negligible. Red Pivot was not attempting to gain some kind of illegal advantage or negligently exiting illegally, but was constrained by the shape of the Penalty Box.
+
+
+
+4.4.2. Penalty Enforcement for Jammers¶
+
+A Jammer may have their penalty time shortened if the other Jammer also receives a penalty.
+—Origin: Section 4.4.2
+
+
+
+Scenario C4.4.2.AWhite Jammer receives a penalty, reports to the Penalty Box, and is seated.
+They serve 25 seconds of their penalty when Red Jammer arrives and sits to serve their own penalty.
+White Jammer is released, thus consigning Red Jammer to serve 25 seconds.
+White Jammer returns to the track illegally, and is back in the Box 10 seconds after their prior release to serve their second penalty.
+Red Jammer leaves the Box.
+Outcome: Red Jammer is penalized for leaving the Box 15 seconds early.
+White Jammer owes 30 seconds from the time they are seated.
+Rationale: To serve the same amount of time “per penalty”, Red Jammer must serve all 25 seconds that White Jammer served initially. In other words, White Jammer sitting for an unrelated penalty does not affect the time that Red Jammer owed.
+Keep in Mind: Red Jammer owes 45 more seconds: 15 from their first penalty, and 30 from their second penalty.
+Keep in Mind: Red Jammer’s second penalty could reduce the time White Jammer owes for their own second penalty, but the 15 seconds from Red Jammer’s first penalty cannot be reduced.
+
+
+
+Scenario C4.4.2.BWhite Jammer arrives at the Penalty Box immediately behind Red Jammer. Both attempt to be the first one seated, and in so doing, they sit at the exact same moment.
+Outcome: The Penalty Box Official should inform both Jammers that their time is complete and release them from the Box.
+Rationale: When sitting simultaneously in the Box, or when arriving between Jams, Jammers cancel each other’s penalties. Both should be immediately released.
+Keep in Mind: If there is any time differential at all between Jammers sitting, it is not considered to be simultaneous.
+Keep in Mind: If both Jammers sit between Jams, they are considered to have sat simultaneously and must be released immediately at the beginning of the following Jam.
+
+
+
+Scenario C4.4.2.CRed Jammer is seated in the Penalty Box and has served 15 seconds when the Jam ends. White Jammer receives a penalty at the Jam-Ending Whistle and reports to the Box between Jams.
+Outcome: White Jammer reported to the Box between Jams, which will end Red Jammer’s penalty at the start of the next Jam. A Penalty Box Official must instruct Red Jammer to stand and inform them their penalty time is done at the Jam-Starting Whistle. White Jammer must serve 15 seconds.
+Rationale: Though White Jammer’s penalty ended Red Jammer’s penalty early, Red Jammer must still begin the next Jam from the Box. Penalties are only timed while Jams are active; as such, Jammer swaps only happen while a Jam is ongoing.
+
+
+
+Scenario C4.4.2.DWhite Jammer receives a penalty and sits in the Penalty Box for 15 seconds. Red Jammer receives a penalty and arrives at the Box, but before they sit, White Jammer leaves. Red Jammer sits. White Jammer is issued a penalty for leaving early and returns to the Box. White Jammer sits and Red Jammer is released.
+Outcome: White Jammer is penalized for leaving the Box early. Red Jammer sat in the Box when no other Jammer was serving time. Red Jammer is released upon White Jammer’s return. White Jammer serves the time remaining from their first penalty, plus the amount of time Red Jammer served while seated in the Box.
+Rationale: A Jammer serving time in the Box is only released by another Jammer being seated in the Box to serve a penalty. Even though White Jammer was penalized first, they were not present when Red Jammer sat. Thus, Red Jammer was the “Jammer serving time in the Box” who was released by the White Jammer “being seated in the Box to serve a penalty.”
+Keep in Mind: Each penalty is a 30-second segment that may be shortened as long as the Jammers serve equivalent time.
+
+
+
+
+4.5. Fouling Out and Expulsions¶
+
+Expulsions are a way to penalize a Skater or Team Staff who has committed an act that is sufficiently dangerous or unsporting as to remove the individual from the game for that action alone.
+—Origin: Section 4.5
+
+
+
+Scenario C4.5.AWhile in bounds and in play, White Blocker initiates an extremely forceful block with a Legal Blocking Zone to a Legal Target Zone on Red Blocker. Red Blocker is knocked airborne, crashes to the track, and remains still until the Jam is called for injury. Red Captain calls an Official Review and requests that White Blocker be expelled for an egregious hit.
+Outcome: No penalty.
+Rationale: The rules dictate the manner in which Skaters may block and White Blocker met all those standards. A Skater may not be expelled for legal play.
+
+
+
+Scenario C4.5.BRed Jammer races to the Penalty Box to serve their penalty. They shout, “I can’t stop!” and crash into the Box. The chairs are knocked backward into a Penalty Box Official. Red Jammer apologizes but complains about how dirty the floor is in front of the Box.
+Outcome: Red Jammer is expelled.
+Rationale: Unsafe play in respect to Officials, especially those not wearing safety equipment, is held to a different standard than unsafe play in respect to other Skaters. It is incumbent on the Skater to enter the Box in a safe manner, not on the Official to avoid impact.
+Keep in Mind: If an Official is unable to avoid the impact because of the constraints of the venue, this still represents unsafe play (due to the constraints of the venue). The Skater must be aware of their track environments, including any limitations of space in the Box. Mitigating environmental factors that aren’t expected to be present, such as water on the track, can be taken into consideration when deciding whether to expel the Skater.
+Keep in Mind: Skaters are expected to be in control of themselves and their bodies at all times, not just upon entry to the Box. However, opponents, teammates, Team Staff, and Officials in close proximity to the track during active gameplay also bear some responsibility for avoiding contact with Skaters. Contact made to individuals or equipment in areas of active gameplay should only be penalized if the contact is forceful and reasonably avoidable.
+
+
+
+Scenario C4.5.CRed Blocker receives their seventh penalty and immediately leaves the track.
+Knowing they have fouled out of the game, they go to their bench, collect their belongings, and exit to the locker room without reporting to the Penalty Box.
+Outcome: No additional penalties are warranted.
+Red Blocker’s penalty time starts during the Jam once the Penalty Box Officials are made aware that Red Blocker has fouled out, or when a substitute is seated in the next Jam.
+Rationale: Once a Skater fouls out, their penalty time starts when they are seated in the Penalty Box; however, by not reporting to the Box to take a seat, that moment never happens.
+The Penalty Box Officials may be instructed to begin timing once the foul out is confirmed, but if that communication is not possible before the end of the Jam, then the fouled-out Skater’s time begins when a substitute takes their place for the next Jam.
+Keep in Mind: If the Skater had not fouled out but leaves the Jam for other reasons (such as equipment malfunction or injury), their time does not start until they are seated (or a substitute is seated in their place for the next Jam).
+
+
+
+
+5. Officiating¶
+
+5.1. Staffing¶
+No scenarios for Section 5.1.
+
+
+5.2. Duties¶
+No scenarios for Section 5.2.
+
+
+5.3. Communication Between Skaters and Officials¶
+No scenarios for Section 5.3.
+
+
+5.4. Assessing Penalties¶
+
+All Referees may assess penalties to Skaters for illegal actions that have impact on the game. No penalty should be assessed unless the Official is certain that the penalty is warranted.
+—Origin: Section 5.4
+
+
+
+Scenario C5.4.AWhite Captain is the Jammer and commits a penalty. In response, the White Team Staff curses loudly at the Official who called the penalty.
+Outcome: A penalty is assessed to White Captain for their Team Staff’s insubordination, but White Captain’s time in the Penalty Box as Jammer is not extended. After the Jam, if White Captain is no longer seated in the Box as the Jammer, White Captain must report to the Box as a Blocker to serve the penalty earned by their Team Staff.
+Rationale: When a Captain serves a penalty due to the fact that they are the team’s Captain, the penalty is served with the Captain as a Blocker. In this scenario, the Captain was unable to immediately serve the penalty as a Blocker because they could not hold the position of Blocker. As soon as they are able to skate as a Blocker, they should report to the Box as a Blocker in order to receive that penalty.
+
+
+
+Scenario C5.4.BWhite Blocker is penalized and directed to the Penalty Box. White Blocker seems unaware of the call and remains on the track. After several repeated calls, Officials are able to draw the attention of White Blocker, and they exit the track.
+Outcome: White Blocker is penalized for neglectfully failing to immediately exit the track for a penalty.
+Rationale: White Blocker has gained advantage and disrupted the flow of the game through lack of attention to clear instructions from the Officials.
+Keep in Mind: Before assessing an additional penalty in this manner, Officials must ensure that:
+
+The penalty was called using the correct hand signal and verbal cue.
+The Official calling the penalty was correctly positioned for the Skater to potentially see the call.
+The Official calling the penalty did so loudly enough to be heard, given the Official’s position, and the constraints and volume of the venue.
+
+
+
+
+Scenario C5.4.CWhite Blocker is penalized while blocking Red Jammer. After acknowledging the call, White Blocker continues blocking Red Jammer to allow White Blocker’s teammate to get in position and impede Red Jammer’s progress. White Blocker then exits the track.
+Outcome: White Blocker is penalized for willfully failing to immediately exit the track for a penalty.
+Rationale: White Blocker has gained advantage through intentional disregard of the rules.
+Keep in Mind: A penalized Skater is not required to behave as if a penalty has been assessed until the Official has completed the appropriate hand signals and verbal cues.
+
+
+
+Scenario C5.4.DWhite Blocker commits a penalty and is directed to the Penalty Box by an Official. White Blocker skates towards the Penalty Box, remaining in bounds for a significant distance before exiting the track.
+Outcome: White Blocker is penalized for willfully failing to immediately exit the track for a penalty.
+Rationale: White Blocker has gained advantage through intentional disregard of the rules.
+Keep in Mind: Factors that an Official would use to determine that a Skater has failed to immediately exit the track include, but are not limited to:
+
+The Skater has substantially reduced the distance they needed to skate in order to enter the Penalty Box.
+Intentional disruption of gameplay, substantially more than would be expected from a Skater who is safely, legally, and immediately exiting the track.
+
+Keep in Mind: A penalized Skater who is attempting to exit the track legally, but does not have an opportunity due to gameplay conditions, should not be penalized in this manner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © Copyright Rules and diagrams 2023, WFTDA.   |   WFTDA.com   |   Rules Resources and Translations
+
+
+↑ Back to top
+
+
+
+
